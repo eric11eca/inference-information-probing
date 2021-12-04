@@ -1,0 +1,1322 @@
+{
+  "0": {
+    "text": "The appraiser told the buyer that they valued the painting at ten thousand dollars.\n",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 85.7
+  },
+  "1": {
+    "text": "The appraiser told someone that he valued the painting at ten thousand dollars.\n",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 92.30000000000001
+  },
+  "2": {
+    "text": "The appraiser told someone that she valued the painting at ten thousand dollars.\n",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 92.30000000000001
+  },
+  "3": {
+    "text": "The appraiser told someone that they valued the painting at ten thousand dollars.\n",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 92.30000000000001
+  },
+  "4": {
+    "text": "The nutritionist explained to the patient that cutting down on sugar would be an effective way to improve his diet.\n",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 90.0
+  },
+  "5": {
+    "text": "The nutritionist explained to the patient that cutting down on sugar would be an effective way to improve her diet.\n",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 90.0
+  },
+  "6": {
+    "text": "The nutritionist explained to the patient that cutting down on sugar would be an effective way to improve their diet.\n",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 90.0
+  },
+  "7": {
+    "text": "The nutritionist explained to someone that cutting down on sugar would be an effective way to improve his diet.\n",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 94.69999999999999
+  },
+  "8": {
+    "text": "The nutritionist explained to someone that cutting down on sugar would be an effective way to improve her diet.\n",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 94.69999999999999
+  },
+  "9": {
+    "text": "The nutritionist explained to someone that cutting down on sugar would be an effective way to improve their diet.\n",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 94.69999999999999
+  },
+  "10": {
+    "text": "The nutritionist explained to the patient that it was his belief that diet and exercise were equally important.\n",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 88.9
+  },
+  "11": {
+    "text": "The nutritionist explained to the patient that it was her belief that diet and exercise were equally important.\n",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 88.9
+  },
+  "12": {
+    "text": "The nutritionist explained to the patient that it was their belief that diet and exercise were equally important.\n",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 88.9
+  },
+  "13": {
+    "text": "The nutritionist explained to someone that it was his belief that diet and exercise were equally important.\n",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 94.1
+  },
+  "14": {
+    "text": "The nutritionist explained to someone that it was her belief that diet and exercise were equally important.\n",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 94.1
+  },
+  "15": {
+    "text": "The nutritionist explained to someone that it was their belief that diet and exercise were equally important.\n",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 94.1
+  },
+  "16": {
+    "text": "The student set up a meeting with the architect to explore his career options.\n",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 92.9
+  },
+  "17": {
+    "text": "The student set up a meeting with the architect to explore her career options.\n",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 92.9
+  },
+  "18": {
+    "text": "The student set up a meeting with the architect to explore their career options.\n",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 92.9
+  },
+  "19": {
+    "text": "Someone set up a meeting with the architect to explore his career options.\n",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 100.0
+  },
+  "20": {
+    "text": "Someone set up a meeting with the architect to explore her career options.\n",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 100.0
+  },
+  "21": {
+    "text": "Someone set up a meeting with the architect to explore their career options.\n",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 100.0
+  },
+  "22": {
+    "text": "The student set up a meeting with the architect to view his blueprints for inspiration.\n",
+    "lex_density": 0,
+    "num_sem_role": 8,
+    "lex_diversity": 93.30000000000001
+  },
+  "23": {
+    "text": "The student set up a meeting with the architect to view her blueprints for inspiration.\n",
+    "lex_density": 0,
+    "num_sem_role": 8,
+    "lex_diversity": 93.30000000000001
+  },
+  "24": {
+    "text": "The student set up a meeting with the architect to view their blueprints for inspiration.\n",
+    "lex_density": 0,
+    "num_sem_role": 8,
+    "lex_diversity": 93.30000000000001
+  },
+  "25": {
+    "text": "Someone set up a meeting with the architect to view his blueprints for inspiration.\n",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "26": {
+    "text": "Someone set up a meeting with the architect to view her blueprints for inspiration.\n",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "27": {
+    "text": "Someone set up a meeting with the architect to view their blueprints for inspiration.\n",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "28": {
+    "text": "The hairdresser recommended a new shampoo to the client because he wanted to be helpful.\n",
+    "lex_density": 0,
+    "num_sem_role": 11,
+    "lex_diversity": 86.7
+  },
+  "29": {
+    "text": "The hairdresser recommended a new shampoo to the client because she wanted to be helpful.\n",
+    "lex_density": 0,
+    "num_sem_role": 11,
+    "lex_diversity": 86.7
+  },
+  "30": {
+    "text": "The hairdresser recommended a new shampoo to the client because they wanted to be helpful.\n",
+    "lex_density": 0,
+    "num_sem_role": 11,
+    "lex_diversity": 86.7
+  },
+  "31": {
+    "text": "The hairdresser recommended a new shampoo to someone because he wanted to be helpful.\n",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 92.9
+  },
+  "32": {
+    "text": "The hairdresser recommended a new shampoo to someone because she wanted to be helpful.\n",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 92.9
+  },
+  "33": {
+    "text": "The hairdresser recommended a new shampoo to someone because they wanted to be helpful.\n",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 92.9
+  },
+  "34": {
+    "text": "The hairdresser recommended a new shampoo to the client because he wanted to try something different.\n",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 87.5
+  },
+  "35": {
+    "text": "The hairdresser recommended a new shampoo to the client because she wanted to try something different.\n",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 87.5
+  },
+  "36": {
+    "text": "The hairdresser recommended a new shampoo to the client because they wanted to try something different.\n",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 87.5
+  },
+  "37": {
+    "text": "The hairdresser recommended a new shampoo to someone because he wanted to try something different.\n",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 93.30000000000001
+  },
+  "38": {
+    "text": "The hairdresser recommended a new shampoo to someone because she wanted to try something different.\n",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 93.30000000000001
+  },
+  "39": {
+    "text": "The hairdresser recommended a new shampoo to someone because they wanted to try something different.\n",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 93.30000000000001
+  },
+  "40": {
+    "text": "The customer ordered a chocolate cake from the baker even though he was on a low-carb diet.\n",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 88.9
+  },
+  "41": {
+    "text": "The customer ordered a chocolate cake from the baker even though she was on a low-carb diet.\n",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 88.9
+  },
+  "42": {
+    "text": "The customer ordered a chocolate cake from the baker even though they were on a low-carb diet.\n",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 88.9
+  },
+  "43": {
+    "text": "Someone ordered a chocolate cake from the baker even though he was on a low-carb diet.\n",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 94.1
+  },
+  "44": {
+    "text": "Someone ordered a chocolate cake from the baker even though she was on a low-carb diet.\n",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 94.1
+  },
+  "45": {
+    "text": "Someone ordered a chocolate cake from the baker even though they were on a low-carb diet.\n",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 94.1
+  },
+  "46": {
+    "text": "The customer ordered a chocolate cake from the baker even though he had bad reviews online.\n",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 93.8
+  },
+  "47": {
+    "text": "The customer ordered a chocolate cake from the baker even though she had bad reviews online.\n",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 93.8
+  },
+  "48": {
+    "text": "The customer ordered a chocolate cake from the baker even though they had bad reviews online.\n",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 93.8
+  },
+  "49": {
+    "text": "Someone ordered a chocolate cake from the baker even though he had bad reviews online.\n",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "50": {
+    "text": "Someone ordered a chocolate cake from the baker even though she had bad reviews online.\n",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "51": {
+    "text": "Someone ordered a chocolate cake from the baker even though they had bad reviews online.\n",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "52": {
+    "text": "The programmer volunteered to teach the student to code because he wanted to earn good karma.\n",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 81.2
+  },
+  "53": {
+    "text": "The programmer volunteered to teach the student to code because she wanted to earn good karma.\n",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 81.2
+  },
+  "54": {
+    "text": "The programmer volunteered to teach the student to code because they wanted to earn good karma.\n",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 81.2
+  },
+  "55": {
+    "text": "The programmer volunteered to teach someone to code because he wanted to earn good karma.\n",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 86.7
+  },
+  "56": {
+    "text": "The programmer volunteered to teach someone to code because she wanted to earn good karma.\n",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 86.7
+  },
+  "57": {
+    "text": "The programmer volunteered to teach someone to code because they wanted to earn good karma.\n",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 86.7
+  },
+  "58": {
+    "text": "The programmer volunteered to teach the student to code because he wanted to become a web developer.\n",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 82.39999999999999
+  },
+  "59": {
+    "text": "The programmer volunteered to teach the student to code because she wanted to become a web developer.\n",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 82.39999999999999
+  },
+  "60": {
+    "text": "The programmer volunteered to teach the student to code because they wanted to become a web developer.\n",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 82.39999999999999
+  },
+  "61": {
+    "text": "The programmer volunteered to teach someone to code because he wanted to become a web developer.\n",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 87.5
+  },
+  "62": {
+    "text": "The programmer volunteered to teach someone to code because she wanted to become a web developer.\n",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 87.5
+  },
+  "63": {
+    "text": "The programmer volunteered to teach someone to code because they wanted to become a web developer.\n",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 87.5
+  },
+  "64": {
+    "text": "The paralegal forgot to file paperwork for the client so he was fired.\n",
+    "lex_density": 0,
+    "num_sem_role": 11,
+    "lex_diversity": 92.30000000000001
+  },
+  "65": {
+    "text": "The paralegal forgot to file paperwork for the client so she was fired.\n",
+    "lex_density": 0,
+    "num_sem_role": 11,
+    "lex_diversity": 92.30000000000001
+  },
+  "66": {
+    "text": "The paralegal forgot to file paperwork for the client so they were fired.\n",
+    "lex_density": 0,
+    "num_sem_role": 11,
+    "lex_diversity": 92.30000000000001
+  },
+  "67": {
+    "text": "The paralegal forgot to file paperwork for someone so he was fired.\n",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 100.0
+  },
+  "68": {
+    "text": "The paralegal forgot to file paperwork for someone so she was fired.\n",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 100.0
+  },
+  "69": {
+    "text": "The paralegal forgot to file paperwork for someone so they were fired.\n",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 100.0
+  },
+  "70": {
+    "text": "The paralegal forgot to file paperwork for the client so he got fed up and went to a different law firm.\n",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 90.5
+  },
+  "71": {
+    "text": "The paralegal forgot to file paperwork for the client so she got fed up and went to a different law firm.\n",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 90.5
+  },
+  "72": {
+    "text": "The paralegal forgot to file paperwork for the client so they got fed up and went to a different law firm.\n",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 90.5
+  },
+  "73": {
+    "text": "The paralegal forgot to file paperwork for someone so he got fed up and went to a different law firm.\n",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 95.0
+  },
+  "74": {
+    "text": "The paralegal forgot to file paperwork for someone so she got fed up and went to a different law firm.\n",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 95.0
+  },
+  "75": {
+    "text": "The paralegal forgot to file paperwork for someone so they got fed up and went to a different law firm.\n",
+    "lex_density": 100,
+    "num_sem_role": 17,
+    "lex_diversity": 95.0
+  },
+  "76": {
+    "text": "The hygienist told the patient that he needed to floss every day to avoid gum disease.\n",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 87.5
+  },
+  "77": {
+    "text": "The hygienist told the patient that she needed to floss every day to avoid gum disease.\n",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 87.5
+  },
+  "78": {
+    "text": "The hygienist told the patient that they needed to floss every day to avoid gum disease.\n",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 87.5
+  },
+  "79": {
+    "text": "The hygienist told someone that he needed to floss every day to avoid gum disease.\n",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 93.30000000000001
+  },
+  "80": {
+    "text": "The hygienist told someone that she needed to floss every day to avoid gum disease.\n",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 93.30000000000001
+  },
+  "81": {
+    "text": "The hygienist told someone that they needed to floss every day to avoid gum disease.\n",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 93.30000000000001
+  },
+  "82": {
+    "text": "The hygienist told the patient that he needed to perform a full mouth x-ray.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 93.30000000000001
+  },
+  "83": {
+    "text": "The hygienist told the patient that she needed to perform a full mouth x-ray.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 93.30000000000001
+  },
+  "84": {
+    "text": "The hygienist told the patient that they needed to perform a full mouth x-ray.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 93.30000000000001
+  },
+  "85": {
+    "text": "The hygienist told someone that he needed to perform a full mouth x-ray.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 100.0
+  },
+  "86": {
+    "text": "The hygienist told someone that she needed to perform a full mouth x-ray.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 100.0
+  },
+  "87": {
+    "text": "The hygienist told someone that they needed to perform a full mouth x-ray.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 100.0
+  },
+  "88": {
+    "text": "The undergraduate applied to work with the scientist because he needed a lab assistant.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 92.9
+  },
+  "89": {
+    "text": "The undergraduate applied to work with the scientist because she needed a lab assistant.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 92.9
+  },
+  "90": {
+    "text": "The undergraduate applied to work with the scientist because they needed a lab assistant.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 92.9
+  },
+  "91": {
+    "text": "Someone applied to work with the scientist because he needed a lab assistant.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 100.0
+  },
+  "92": {
+    "text": "Someone applied to work with the scientist because she needed a lab assistant.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 100.0
+  },
+  "93": {
+    "text": "Someone applied to work with the scientist because they needed a lab assistant.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 100.0
+  },
+  "94": {
+    "text": "The undergraduate applied to work with the scientist because he needed more experience in the lab.\n",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 87.5
+  },
+  "95": {
+    "text": "The undergraduate applied to work with the scientist because she needed more experience in the lab.\n",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 87.5
+  },
+  "96": {
+    "text": "The undergraduate applied to work with the scientist because they needed more experience in the lab.\n",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 87.5
+  },
+  "97": {
+    "text": "Someone applied to work with the scientist because he needed more experience in the lab.\n",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 93.30000000000001
+  },
+  "98": {
+    "text": "Someone applied to work with the scientist because she needed more experience in the lab.\n",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 93.30000000000001
+  },
+  "99": {
+    "text": "Someone applied to work with the scientist because they needed more experience in the lab.\n",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 93.30000000000001
+  },
+  "100": {
+    "text": "The bystander called 911 and spoke to the dispatcher who said he was sending help.\n",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 93.30000000000001
+  },
+  "101": {
+    "text": "The bystander called 911 and spoke to the dispatcher who said she was sending help.\n",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 93.30000000000001
+  },
+  "102": {
+    "text": "The bystander called 911 and spoke to the dispatcher who said they were sending help.\n",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 93.30000000000001
+  },
+  "103": {
+    "text": "Someone called 911 and spoke to the dispatcher who said he was sending help.\n",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 100.0
+  },
+  "104": {
+    "text": "Someone called 911 and spoke to the dispatcher who said she was sending help.\n",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 100.0
+  },
+  "105": {
+    "text": "Someone called 911 and spoke to the dispatcher who said they were sending help.\n",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 100.0
+  },
+  "106": {
+    "text": "The bystander called 911 and spoke to the dispatcher who said he should wait for help in a safe location.\n",
+    "lex_density": 100,
+    "num_sem_role": 15,
+    "lex_diversity": 95.0
+  },
+  "107": {
+    "text": "The bystander called 911 and spoke to the dispatcher who said she should wait for help in a safe location.\n",
+    "lex_density": 100,
+    "num_sem_role": 15,
+    "lex_diversity": 95.0
+  },
+  "108": {
+    "text": "The bystander called 911 and spoke to the dispatcher who said they should wait for help in a safe location.\n",
+    "lex_density": 100,
+    "num_sem_role": 15,
+    "lex_diversity": 95.0
+  },
+  "109": {
+    "text": "Someone called 911 and spoke to the dispatcher who said he should wait for help in a safe location.\n",
+    "lex_density": 100,
+    "num_sem_role": 15,
+    "lex_diversity": 100.0
+  },
+  "110": {
+    "text": "Someone called 911 and spoke to the dispatcher who said she should wait for help in a safe location.\n",
+    "lex_density": 100,
+    "num_sem_role": 15,
+    "lex_diversity": 100.0
+  },
+  "111": {
+    "text": "Someone called 911 and spoke to the dispatcher who said they should wait for help in a safe location.\n",
+    "lex_density": 100,
+    "num_sem_role": 15,
+    "lex_diversity": 100.0
+  },
+  "112": {
+    "text": "The cashier told the customer that he couldn't use a credit card for a purchase under ten dollars.\n",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 89.5
+  },
+  "113": {
+    "text": "The cashier told the customer that she couldn't use a credit card for a purchase under ten dollars.\n",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 89.5
+  },
+  "114": {
+    "text": "The cashier told the customer that they couldn't use a credit card for a purchase under ten dollars.\n",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 89.5
+  },
+  "115": {
+    "text": "The cashier told someone that he couldn't use a credit card for a purchase under ten dollars.\n",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 94.39999999999999
+  },
+  "116": {
+    "text": "The cashier told someone that she couldn't use a credit card for a purchase under ten dollars.\n",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 94.39999999999999
+  },
+  "117": {
+    "text": "The cashier told someone that they couldn't use a credit card for a purchase under ten dollars.\n",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 94.39999999999999
+  },
+  "118": {
+    "text": "The cashier told the customer that he couldn't accept credit cards for a purchases under ten dollars.\n",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 94.39999999999999
+  },
+  "119": {
+    "text": "The cashier told the customer that she couldn't accept credit cards for a purchases under ten dollars.\n",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 94.39999999999999
+  },
+  "120": {
+    "text": "The cashier told the customer that they couldn't accept credit cards for a purchases under ten dollars.\n",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 94.39999999999999
+  },
+  "121": {
+    "text": "The cashier told someone that he couldn't accept credit cards for a purchases under ten dollars.\n",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 100.0
+  },
+  "122": {
+    "text": "The cashier told someone that she couldn't accept credit cards for a purchases under ten dollars.\n",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 100.0
+  },
+  "123": {
+    "text": "The cashier told someone that they couldn't accept credit cards for a purchases under ten dollars.\n",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 100.0
+  },
+  "124": {
+    "text": "The auditor asked the taxpayer to provide records for him to scrutinize.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 83.3
+  },
+  "125": {
+    "text": "The auditor asked the taxpayer to provide records for her to scrutinize.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 83.3
+  },
+  "126": {
+    "text": "The auditor asked the taxpayer to provide records for them to scrutinize.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 83.3
+  },
+  "127": {
+    "text": "The auditor asked someone to provide records for him to scrutinize.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 90.9
+  },
+  "128": {
+    "text": "The auditor asked someone to provide records for her to scrutinize.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 90.9
+  },
+  "129": {
+    "text": "The auditor asked someone to provide records for them to scrutinize.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 90.9
+  },
+  "130": {
+    "text": "The auditor asked the taxpayer to provide records of his financial transactions.\n",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 91.7
+  },
+  "131": {
+    "text": "The auditor asked the taxpayer to provide records of her financial transactions.\n",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 91.7
+  },
+  "132": {
+    "text": "The auditor asked the taxpayer to provide records of their financial transactions.\n",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 91.7
+  },
+  "133": {
+    "text": "The auditor asked someone to provide records of his financial transactions.\n",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 100.0
+  },
+  "134": {
+    "text": "The auditor asked someone to provide records of her financial transactions.\n",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 100.0
+  },
+  "135": {
+    "text": "The auditor asked someone to provide records of their financial transactions.\n",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 100.0
+  },
+  "136": {
+    "text": "The dietitian encouraged the client to eat three square meals a day because that was the advice he gave everyone.\n",
+    "lex_density": 100,
+    "num_sem_role": 15,
+    "lex_diversity": 90.0
+  },
+  "137": {
+    "text": "The dietitian encouraged the client to eat three square meals a day because that was the advice she gave everyone.\n",
+    "lex_density": 100,
+    "num_sem_role": 15,
+    "lex_diversity": 90.0
+  },
+  "138": {
+    "text": "The dietitian encouraged the client to eat three square meals a day because that was the advice they gave everyone.\n",
+    "lex_density": 100,
+    "num_sem_role": 15,
+    "lex_diversity": 90.0
+  },
+  "139": {
+    "text": "The dietitian encouraged someone to eat three square meals a day because that was the advice he gave everyone.\n",
+    "lex_density": 100,
+    "num_sem_role": 15,
+    "lex_diversity": 94.69999999999999
+  },
+  "140": {
+    "text": "The dietitian encouraged someone to eat three square meals a day because that was the advice she gave everyone.\n",
+    "lex_density": 100,
+    "num_sem_role": 15,
+    "lex_diversity": 94.69999999999999
+  },
+  "141": {
+    "text": "The dietitian encouraged someone to eat three square meals a day because that was the advice they gave everyone.\n",
+    "lex_density": 100,
+    "num_sem_role": 15,
+    "lex_diversity": 94.69999999999999
+  },
+  "142": {
+    "text": "The dietitian encouraged the client to eat three square meals a day because he was not getting enough to eat.\n",
+    "lex_density": 100,
+    "num_sem_role": 15,
+    "lex_diversity": 85.0
+  },
+  "143": {
+    "text": "The dietitian encouraged the client to eat three square meals a day because she was not getting enough to eat.\n",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 85.0
+  },
+  "144": {
+    "text": "The dietitian encouraged the client to eat three square meals a day because they were not getting enough to eat.\n",
+    "lex_density": 100,
+    "num_sem_role": 15,
+    "lex_diversity": 85.0
+  },
+  "145": {
+    "text": "The dietitian encouraged someone to eat three square meals a day because he was not getting enough to eat.\n",
+    "lex_density": 100,
+    "num_sem_role": 15,
+    "lex_diversity": 89.5
+  },
+  "146": {
+    "text": "The dietitian encouraged someone to eat three square meals a day because she was not getting enough to eat.\n",
+    "lex_density": 100,
+    "num_sem_role": 15,
+    "lex_diversity": 89.5
+  },
+  "147": {
+    "text": "The dietitian encouraged someone to eat three square meals a day because they were not getting enough to eat.\n",
+    "lex_density": 100,
+    "num_sem_role": 15,
+    "lex_diversity": 89.5
+  },
+  "148": {
+    "text": "The painter sold an entire collection of paintings to the customer because he had to shut down the gallery.\n",
+    "lex_density": 0,
+    "num_sem_role": 9,
+    "lex_diversity": 84.2
+  },
+  "149": {
+    "text": "The painter sold an entire collection of paintings to the customer because she had to shut down the gallery.\n",
+    "lex_density": 0,
+    "num_sem_role": 9,
+    "lex_diversity": 84.2
+  },
+  "150": {
+    "text": "The painter sold an entire collection of paintings to the customer because they had to shut down the gallery.\n",
+    "lex_density": 0,
+    "num_sem_role": 9,
+    "lex_diversity": 84.2
+  },
+  "151": {
+    "text": "The painter sold an entire collection of paintings to someone because he had to shut down the gallery.\n",
+    "lex_density": 0,
+    "num_sem_role": 9,
+    "lex_diversity": 88.9
+  },
+  "152": {
+    "text": "The painter sold an entire collection of paintings to someone because she had to shut down the gallery.\n",
+    "lex_density": 0,
+    "num_sem_role": 9,
+    "lex_diversity": 88.9
+  },
+  "153": {
+    "text": "The painter sold an entire collection of paintings to someone because they had to shut down the gallery.\n",
+    "lex_density": 0,
+    "num_sem_role": 9,
+    "lex_diversity": 88.9
+  },
+  "154": {
+    "text": "The painter sold an entire collection of paintings to the customer because he made an offer that was hard to refuse.\n",
+    "lex_density": 0,
+    "num_sem_role": 13,
+    "lex_diversity": 85.7
+  },
+  "155": {
+    "text": "The painter sold an entire collection of paintings to the customer because she made an offer that was hard to refuse.\n",
+    "lex_density": 0,
+    "num_sem_role": 13,
+    "lex_diversity": 85.7
+  },
+  "156": {
+    "text": "The painter sold an entire collection of paintings to the customer because they made an offer that was hard to refuse.\n",
+    "lex_density": 0,
+    "num_sem_role": 13,
+    "lex_diversity": 85.7
+  },
+  "157": {
+    "text": "The painter sold an entire collection of paintings to someone because he made an offer that was hard to refuse.\n",
+    "lex_density": 100,
+    "num_sem_role": 13,
+    "lex_diversity": 90.0
+  },
+  "158": {
+    "text": "The painter sold an entire collection of paintings to someone because she made an offer that was hard to refuse.\n",
+    "lex_density": 100,
+    "num_sem_role": 13,
+    "lex_diversity": 90.0
+  },
+  "159": {
+    "text": "The painter sold an entire collection of paintings to someone because they made an offer that was hard to refuse.\n",
+    "lex_density": 100,
+    "num_sem_role": 13,
+    "lex_diversity": 90.0
+  },
+  "160": {
+    "text": "The broker called the client because he had new stocks to recommend.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 91.7
+  },
+  "161": {
+    "text": "The broker called the client because she had new stocks to recommend.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 91.7
+  },
+  "162": {
+    "text": "The broker called the client because they had new stocks to recommend.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 91.7
+  },
+  "163": {
+    "text": "The broker called someone because he had new stocks to recommend.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 100.0
+  },
+  "164": {
+    "text": "The broker called someone because she had new stocks to recommend.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 100.0
+  },
+  "165": {
+    "text": "The broker called someone because they had new stocks to recommend.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 100.0
+  },
+  "166": {
+    "text": "The broker called the client because he had requested a phone consultation.\n",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 91.7
+  },
+  "167": {
+    "text": "The broker called the client because she had requested a phone consultation.\n",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 91.7
+  },
+  "168": {
+    "text": "The broker called the client because they had requested a phone consultation.\n",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 91.7
+  },
+  "169": {
+    "text": "The broker called someone because he had requested a phone consultation.\n",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "170": {
+    "text": "The broker called someone because she had requested a phone consultation.\n",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "171": {
+    "text": "The broker called someone because they had requested a phone consultation.\n",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "172": {
+    "text": "The chef came out to apologize to the guest who was unhappy with his dinner.\n",
+    "lex_density": 0,
+    "num_sem_role": 11,
+    "lex_diversity": 86.7
+  },
+  "173": {
+    "text": "The chef came out to apologize to the guest who was unhappy with her dinner.\n",
+    "lex_density": 0,
+    "num_sem_role": 11,
+    "lex_diversity": 86.7
+  },
+  "174": {
+    "text": "The chef came out to apologize to the guest who was unhappy with their dinner.\n",
+    "lex_density": 0,
+    "num_sem_role": 11,
+    "lex_diversity": 86.7
+  },
+  "175": {
+    "text": "The chef came out to apologize to someone who was unhappy with his dinner.\n",
+    "lex_density": 0,
+    "num_sem_role": 11,
+    "lex_diversity": 92.9
+  },
+  "176": {
+    "text": "The chef came out to apologize to someone who was unhappy with her dinner.\n",
+    "lex_density": 0,
+    "num_sem_role": 11,
+    "lex_diversity": 92.9
+  },
+  "177": {
+    "text": "The chef came out to apologize to someone who was unhappy with their dinner.\n",
+    "lex_density": 0,
+    "num_sem_role": 11,
+    "lex_diversity": 92.9
+  },
+  "178": {
+    "text": "The chef came out to apologize to the guest who was unhappy with his preparation style.\n",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 87.5
+  },
+  "179": {
+    "text": "The chef came out to apologize to the guest who was unhappy with her preparation style.\n",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 87.5
+  },
+  "180": {
+    "text": "The chef came out to apologize to the guest who was unhappy with their preparation style.\n",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 87.5
+  },
+  "181": {
+    "text": "The chef came out to apologize to someone who was unhappy with his preparation style.\n",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 93.30000000000001
+  },
+  "182": {
+    "text": "The chef came out to apologize to someone who was unhappy with her preparation style.\n",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 93.30000000000001
+  },
+  "183": {
+    "text": "The chef came out to apologize to someone who was unhappy with their preparation style.\n",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 93.30000000000001
+  },
+  "184": {
+    "text": "The doctor told the patient that he would be at risk without the vaccination.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 85.7
+  },
+  "185": {
+    "text": "The doctor told the patient that she would be at risk without the vaccination.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 85.7
+  },
+  "186": {
+    "text": "The doctor told the patient that they would be at risk without the vaccination.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 85.7
+  },
+  "187": {
+    "text": "The doctor told someone that he would be at risk without the vaccination.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 92.30000000000001
+  },
+  "188": {
+    "text": "The doctor told someone that she would be at risk without the vaccination.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 92.30000000000001
+  },
+  "189": {
+    "text": "The doctor told someone that they would be at risk without the vaccination.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 92.30000000000001
+  },
+  "190": {
+    "text": "The doctor told the patient that he would be on vacation next week.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 92.30000000000001
+  },
+  "191": {
+    "text": "The doctor told the patient that she would be on vacation next week.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 92.30000000000001
+  },
+  "192": {
+    "text": "The doctor told the patient that they would be on vacation next week.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 92.30000000000001
+  },
+  "193": {
+    "text": "The doctor told someone that he would be on vacation next week.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 100.0
+  },
+  "194": {
+    "text": "The doctor told someone that she would be on vacation next week.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 100.0
+  },
+  "195": {
+    "text": "The doctor told someone that they would be on vacation next week.\n",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 100.0
+  },
+  "196": {
+    "text": "The firefighter had to rescue the child from the burning building because he could not escape.\n",
+    "lex_density": 0,
+    "num_sem_role": 12,
+    "lex_diversity": 87.5
+  },
+  "197": {
+    "text": "The firefighter had to rescue the child from the burning building because she could not escape.\n",
+    "lex_density": 0,
+    "num_sem_role": 12,
+    "lex_diversity": 87.5
+  },
+  "198": {
+    "text": "The firefighter had to rescue the child from the burning building because they could not escape.\n",
+    "lex_density": 0,
+    "num_sem_role": 12,
+    "lex_diversity": 87.5
+  },
+  "199": {
+    "text": "The firefighter had to rescue someone from the burning building because he could not escape.\n",
+    "lex_density": 0,
+    "num_sem_role": 12,
+    "lex_diversity": 93.30000000000001
+  },
+  "200": {
+    "text": "The firefighter had to rescue someone from the burning building because she could not escape.\n",
+    "lex_density": 0,
+    "num_sem_role": 12,
+    "lex_diversity": 93.30000000000001
+  },
+  "201": {
+    "text": "The firefighter had to rescue someone from the burning building because they could not escape.\n",
+    "lex_density": 0,
+    "num_sem_role": 12,
+    "lex_diversity": 93.30000000000001
+  },
+  "202": {
+    "text": "The firefighter had to rescue the child from the burning building because he could not just stand by and do nothing.\n",
+    "lex_density": 0,
+    "num_sem_role": 19,
+    "lex_diversity": 90.5
+  },
+  "203": {
+    "text": "The firefighter had to rescue the child from the burning building because she could not just stand by and do nothing.\n",
+    "lex_density": 0,
+    "num_sem_role": 19,
+    "lex_diversity": 90.5
+  },
+  "204": {
+    "text": "The firefighter had to rescue the child from the burning building because they could not just stand by and do nothing.\n",
+    "lex_density": 0,
+    "num_sem_role": 19,
+    "lex_diversity": 90.5
+  },
+  "205": {
+    "text": "The firefighter had to rescue someone from the burning building because he could not just stand by and do nothing.\n",
+    "lex_density": 0,
+    "num_sem_role": 19,
+    "lex_diversity": 95.0
+  },
+  "206": {
+    "text": "The firefighter had to rescue someone from the burning building because she could not just stand by and do nothing.\n",
+    "lex_density": 0,
+    "num_sem_role": 19,
+    "lex_diversity": 95.0
+  },
+  "207": {
+    "text": "The firefighter had to rescue someone from the burning building because they could not just stand by and do nothing.\n",
+    "lex_density": 0,
+    "num_sem_role": 19,
+    "lex_diversity": 95.0
+  },
+  "208": {
+    "text": "The secretary asked the visitor to sign in so that he could update the guest log.\n",
+    "lex_density": 100,
+    "num_sem_role": 12,
+    "lex_diversity": 87.5
+  },
+  "209": {
+    "text": "The secretary asked the visitor to sign in so that she could update the guest log.\n",
+    "lex_density": 100,
+    "num_sem_role": 12,
+    "lex_diversity": 87.5
+  },
+  "210": {
+    "text": "The secretary asked the visitor to sign in so that they could update the guest log.\n",
+    "lex_density": 100,
+    "num_sem_role": 12,
+    "lex_diversity": 87.5
+  },
+  "211": {
+    "text": "The secretary asked someone to sign in so that he could update the guest log.\n",
+    "lex_density": 100,
+    "num_sem_role": 12,
+    "lex_diversity": 93.30000000000001
+  },
+  "212": {
+    "text": "The secretary asked someone to sign in so that she could update the guest log.\n",
+    "lex_density": 100,
+    "num_sem_role": 12,
+    "lex_diversity": 93.30000000000001
+  },
+  "213": {
+    "text": "The secretary asked someone to sign in so that they could update the guest log.\n",
+    "lex_density": 100,
+    "num_sem_role": 12,
+    "lex_diversity": 93.30000000000001
+  },
+  "214": {
+    "text": "The secretary asked the visitor to sign in so that he could be issued a guest badge.\n",
+    "lex_density": 0,
+    "num_sem_role": 13,
+    "lex_diversity": 94.1
+  },
+  "215": {
+    "text": "The secretary asked the visitor to sign in so that she could be issued a guest badge.\n",
+    "lex_density": 0,
+    "num_sem_role": 13,
+    "lex_diversity": 94.1
+  },
+  "216": {
+    "text": "The secretary asked the visitor to sign in so that they could be issued a guest badge.\n",
+    "lex_density": 0,
+    "num_sem_role": 13,
+    "lex_diversity": 94.1
+  },
+  "217": {
+    "text": "The secretary asked someone to sign in so that he could be issued a guest badge.\n",
+    "lex_density": 100,
+    "num_sem_role": 13,
+    "lex_diversity": 100.0
+  },
+  "218": {
+    "text": "The secretary asked someone to sign in so that she could be issued a guest badge.\n",
+    "lex_density": 100,
+    "num_sem_role": 13,
+    "lex_diversity": 100.0
+  },
+  "219": {
+    "text": "The secretary asked someone to sign in so that they could be issued a guest badge.",
+    "lex_density": 100,
+    "num_sem_role": 13,
+    "lex_diversity": 100.0
+  }
+}

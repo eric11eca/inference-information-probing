@@ -1,0 +1,3008 @@
+{
+  "0": {
+    "text": "An Indian woman in traditional garb walks by with an umbrella. An Indonesian woman in traditional garb walks by with an umbrella.",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 50.0
+  },
+  "1": {
+    "text": "An Indian woman in traditional garb walks by with an umbrella. A North Korean woman in traditional garb walks by with an umbrella.",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 56.49999999999999
+  },
+  "2": {
+    "text": "a man dressed as an Indian, speaking into a microphone a man dressed as a Thai, speaking into a microphone",
+    "lex_density": 100,
+    "num_sem_role": 13,
+    "lex_diversity": 50.0
+  },
+  "3": {
+    "text": "a man dressed as an Indian, speaking into a microphone a man dressed as an Indonesian, speaking into a microphone",
+    "lex_density": 100,
+    "num_sem_role": 13,
+    "lex_diversity": 50.0
+  },
+  "4": {
+    "text": "a man dressed as an Indian, speaking into a microphone a man dressed as a North Korean, speaking into a microphone",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 52.400000000000006
+  },
+  "5": {
+    "text": "a man dressed as an Indian, speaking into a microphone a man dressed as a South Korean, speaking into a microphone",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 52.400000000000006
+  },
+  "6": {
+    "text": "a man dressed as an Indian, speaking into a microphone a man dressed as a Vietnamese, speaking into a microphone",
+    "lex_density": 100,
+    "num_sem_role": 13,
+    "lex_diversity": 50.0
+  },
+  "7": {
+    "text": "A white man is in China. A white man is in Singapore.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 58.3
+  },
+  "8": {
+    "text": "A white man is in China. A white man is in North Korea.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 61.5
+  },
+  "9": {
+    "text": "A white man is in China. A white man is in Vietnam.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 58.3
+  },
+  "10": {
+    "text": "A white man is in China. A white man is in Malaysia.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 58.3
+  },
+  "11": {
+    "text": "A white man is in China. A white man is in Thailand.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 58.3
+  },
+  "12": {
+    "text": "A baseball player in gray and orange is trying to avoid being tagged out by the second base player of the opposing team in maroon and white. A baseball player in gray and orange is trying to avoid being tagged out by the 2nd base player of the opposing team in maroon and white.",
+    "lex_density": 100,
+    "num_sem_role": 26,
+    "lex_diversity": 44.4
+  },
+  "13": {
+    "text": "A baseball player in gray and orange is trying to avoid being tagged out by the second base player of the opposing team in maroon and white. A baseball player in gray and orange is trying to avoid being tagged out by the 1st base player of the opposing team in maroon and white.",
+    "lex_density": 100,
+    "num_sem_role": 26,
+    "lex_diversity": 44.4
+  },
+  "14": {
+    "text": "A baseball player in gray and orange is trying to avoid being tagged out by the second base player of the opposing team in maroon and white. A baseball player in gray and orange is trying to avoid being tagged out by the 3rd base player of the opposing team in maroon and white.",
+    "lex_density": 100,
+    "num_sem_role": 26,
+    "lex_diversity": 44.4
+  },
+  "15": {
+    "text": "A boy dressed in blue jeans and a red shirt sits on the road holding a water bottle while a little girl dressed in a red shirt looks on. A boy dressed in blue jeans and a red shirt sits on the street holding a water bottle while a little girl dressed in a red shirt looks on.",
+    "lex_density": 100,
+    "num_sem_role": 36,
+    "lex_diversity": 36.199999999999996
+  },
+  "16": {
+    "text": "A boy dressed in blue jeans and a red shirt sits on the road holding a water bottle while a little girl dressed in a red shirt looks on. A boy dressed in blue jeans and a red shirt sits on the road holding a water bottle while a small girl dressed in a red shirt looks on.",
+    "lex_density": 100,
+    "num_sem_role": 35,
+    "lex_diversity": 36.199999999999996
+  },
+  "17": {
+    "text": "A boy dressed in blue jeans and a red shirt sits on the road holding a water bottle while a little girl dressed in a red shirt looks on. A boy dressed in blue jeans and a red shirt sits on the road holding a water bottle while a big girl dressed in a red shirt looks on.",
+    "lex_density": 100,
+    "num_sem_role": 35,
+    "lex_diversity": 36.199999999999996
+  },
+  "18": {
+    "text": "Two men in sunglasses drink beer. Two men in sunglasses drink gin.",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 58.3
+  },
+  "19": {
+    "text": "Two men in sunglasses drink beer. Two men in sunglasses drink champagne.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 58.3
+  },
+  "20": {
+    "text": "Two men in sunglasses drink beer. Two men in sunglasses drink cider.",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 58.3
+  },
+  "21": {
+    "text": "Two men in sunglasses drink beer. Two men in sunglasses drink vodka.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 58.3
+  },
+  "22": {
+    "text": "Two men in sunglasses drink beer. Two men in sunglasses drink whisky.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 58.3
+  },
+  "23": {
+    "text": "A man wearing a green shirt is standing near the house A man wearing a blue shirt is standing near the house",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 50.0
+  },
+  "24": {
+    "text": "A man wearing a green shirt is standing near the house A man wearing a grey shirt is standing near the house",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 50.0
+  },
+  "25": {
+    "text": "A man wearing a green shirt is standing near the house A man wearing a green shirt is standing far from the house",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 52.2
+  },
+  "26": {
+    "text": "A man wearing a green shirt is standing near the house A man wearing a green shirt is standing far away from the house",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 54.2
+  },
+  "27": {
+    "text": "A man wearing a green shirt is standing near the house A man wearing a white shirt is standing near the house",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 50.0
+  },
+  "28": {
+    "text": "A dog sleeps in the living room. A dog sleeps in the garage.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 61.5
+  },
+  "29": {
+    "text": "A dog sleeps in the living room. A dog sleeps in the bedroom.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 61.5
+  },
+  "30": {
+    "text": "A dog sleeps in the living room. A dog sleeps in the courtroom.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 61.5
+  },
+  "31": {
+    "text": "A dog sleeps in the living room. A dog sleeps in the dining room.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 57.099999999999994
+  },
+  "32": {
+    "text": "A dog sleeps in the living room. A dog sleeps in the classroom.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 61.5
+  },
+  "33": {
+    "text": "A woman, wearing a black and white swimsuit, is sitting near the edge of the water. A woman, wearing a black and red swimsuit, is sitting near the edge of the water.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 46.9
+  },
+  "34": {
+    "text": "A woman, wearing a black and white swimsuit, is sitting near the edge of the water. A woman, wearing a black and white swimsuit, is sitting far away from the edge of the water.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 50.0
+  },
+  "35": {
+    "text": "A woman, wearing a black and white swimsuit, is sitting near the edge of the water. A man, wearing a black and white swimsuit, is sitting near the edge of the water.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 46.9
+  },
+  "36": {
+    "text": "A woman, wearing a black and white swimsuit, is sitting near the edge of the water. A woman, wearing a black and white swimsuit, is sitting far from the edge of the water.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 48.5
+  },
+  "37": {
+    "text": "A short woman wearing a pink backpack over her front walks past a very tall man in a black jacket at the Gubbngen metro station in Stockholm, Sweden. A short woman wearing a pink backpack over her front walks past a very tall man in a black jacket at the Gubbngen metro station in Stockholm, Holland.",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 44.6
+  },
+  "38": {
+    "text": "A short woman wearing a pink backpack over her front walks past a very tall man in a black jacket at the Gubbngen metro station in Stockholm, Sweden. A short woman wearing a pink backpack over her front walks past a very tall man in a black jacket at the Gubbngen metro station in Stockholm, Norway.",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 44.6
+  },
+  "39": {
+    "text": "A short woman wearing a pink backpack over her front walks past a very tall man in a black jacket at the Gubbngen metro station in Stockholm, Sweden. A short woman wearing a pink backpack over her front walks past a very tall man in a black jacket at the Gubbngen metro station in Stockholm, Belgium.",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 44.6
+  },
+  "40": {
+    "text": "A short woman wearing a pink backpack over her front walks past a very tall man in a black jacket at the Gubbngen metro station in Stockholm, Sweden. A short woman wearing a pink backpack over her front walks past a very tall man in a black jacket at the Gubbngen metro station in Stockholm, Germany.",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 44.6
+  },
+  "41": {
+    "text": "A short woman wearing a pink backpack over her front walks past a very tall man in a black jacket at the Gubbngen metro station in Stockholm, Sweden. A short woman wearing a pink backpack over her front walks past a very tall man in a black jacket at the Gubbngen metro station in Stockholm, Switzerland.",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 44.6
+  },
+  "42": {
+    "text": "A graffiti artist paints over a poster on a brick wall. A graffiti artist paints over a poster on a plastic wall.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 45.5
+  },
+  "43": {
+    "text": "A graffiti artist paints over a poster on a brick wall. A graffiti artist paints over a poster on a bronze wall.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 45.5
+  },
+  "44": {
+    "text": "A graffiti artist paints over a poster on a brick wall. A graffiti artist paints over a poster on a glass wall.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 45.5
+  },
+  "45": {
+    "text": "A graffiti artist paints over a poster on a brick wall. A graffiti artist paints over a poster on a cement wall.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 45.5
+  },
+  "46": {
+    "text": "A graffiti artist paints over a poster on a brick wall. A graffiti artist paints over a poster on a wood wall.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 45.5
+  },
+  "47": {
+    "text": "A small girl wearing a yellow dress rocking in a tiny white chair. A tiny girl wearing a yellow dress rocking in a tiny white chair.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 42.3
+  },
+  "48": {
+    "text": "A small girl wearing a yellow dress rocking in a tiny white chair. A small girl wearing a yellow dress rocking in a small white chair.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 42.3
+  },
+  "49": {
+    "text": "A small girl wearing a yellow dress rocking in a tiny white chair. A little girl wearing a yellow dress rocking in a tiny white chair.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 46.2
+  },
+  "50": {
+    "text": "A small girl wearing a yellow dress rocking in a tiny white chair. A small girl wearing a yellow dress rocking in a little white chair.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 46.2
+  },
+  "51": {
+    "text": "A small girl wearing a yellow dress rocking in a tiny white chair. A small girl wearing a yellow dress rocking in a giant white chair.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 46.2
+  },
+  "52": {
+    "text": "The street goes all the way the the planet Mars. The road goes all the way the the planet Mars.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 40.0
+  },
+  "53": {
+    "text": "The street goes all the way the the planet Mars. The street goes all the way the the planet Jupiter.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 40.0
+  },
+  "54": {
+    "text": "The street goes all the way the the planet Mars. The street goes all the way the the planet Mercury.",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 40.0
+  },
+  "55": {
+    "text": "The street goes all the way the the planet Mars. The street goes all the way the the planet Saturn.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 40.0
+  },
+  "56": {
+    "text": "The street goes all the way the the planet Mars. The street goes all the way the the planet Pluto.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 40.0
+  },
+  "57": {
+    "text": "A girl proudly sits on top of a fence after climbing it for the first time. A girl proudly sits on top of a fence after climbing it for the 100th time.",
+    "lex_density": 100,
+    "num_sem_role": 18,
+    "lex_diversity": 50.0
+  },
+  "58": {
+    "text": "A girl proudly sits on top of a fence after climbing it for the first time. A girl proudly sits on top of a fence after climbing it for the 12th time.",
+    "lex_density": 100,
+    "num_sem_role": 18,
+    "lex_diversity": 50.0
+  },
+  "59": {
+    "text": "A girl proudly sits on top of a fence after climbing it for the first time. A girl proudly sits on top of a fence after climbing it for the ninth time.",
+    "lex_density": 100,
+    "num_sem_role": 18,
+    "lex_diversity": 50.0
+  },
+  "60": {
+    "text": "A girl proudly sits on top of a fence after climbing it for the first time. A girl proudly sits on top of a fence after climbing it for the 6th time.",
+    "lex_density": 100,
+    "num_sem_role": 18,
+    "lex_diversity": 50.0
+  },
+  "61": {
+    "text": "A girl proudly sits on top of a fence after climbing it for the first time. A girl proudly sits on top of a fence after climbing it for the 15th time.",
+    "lex_density": 100,
+    "num_sem_role": 18,
+    "lex_diversity": 50.0
+  },
+  "62": {
+    "text": "A group of four woman culturally dressed are giving information to a fifth woman of the same culture. A group of four woman culturally dressed are giving information to a 1st woman of the same culture.",
+    "lex_density": 100,
+    "num_sem_role": 15,
+    "lex_diversity": 44.4
+  },
+  "63": {
+    "text": "A group of four woman culturally dressed are giving information to a fifth woman of the same culture. A group of four woman culturally dressed are giving information to a 2nd woman of the same culture.",
+    "lex_density": 100,
+    "num_sem_role": 15,
+    "lex_diversity": 44.4
+  },
+  "64": {
+    "text": "A group of four woman culturally dressed are giving information to a fifth woman of the same culture. A group of four woman culturally dressed are giving information to a seventh woman of the same culture.",
+    "lex_density": 100,
+    "num_sem_role": 15,
+    "lex_diversity": 44.4
+  },
+  "65": {
+    "text": "A group of four woman culturally dressed are giving information to a fifth woman of the same culture. A group of four woman culturally dressed are giving information to a sixth woman of the same culture.",
+    "lex_density": 100,
+    "num_sem_role": 15,
+    "lex_diversity": 44.4
+  },
+  "66": {
+    "text": "A group of four woman culturally dressed are giving information to a fifth woman of the same culture. A group of four woman culturally dressed are giving information to a tenth woman of the same culture.",
+    "lex_density": 100,
+    "num_sem_role": 15,
+    "lex_diversity": 44.4
+  },
+  "67": {
+    "text": "there is no one within miles of the white building there is every one within miles of the white building",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 55.00000000000001
+  },
+  "68": {
+    "text": "there is no one within miles of the white building there is no one within miles of the dark building",
+    "lex_density": 0,
+    "num_sem_role": 4,
+    "lex_diversity": 55.00000000000001
+  },
+  "69": {
+    "text": "there is no one within miles of the white building there is no one within miles of the orange building",
+    "lex_density": 0,
+    "num_sem_role": 4,
+    "lex_diversity": 55.00000000000001
+  },
+  "70": {
+    "text": "there is no one within miles of the white building there is no one within miles of the red building",
+    "lex_density": 0,
+    "num_sem_role": 4,
+    "lex_diversity": 55.00000000000001
+  },
+  "71": {
+    "text": "there is no one within miles of the white building there is everybody within miles of the white building",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 57.9
+  },
+  "72": {
+    "text": "A little girl is helping her father make breakfast A giant girl is helping her father make breakfast",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 55.60000000000001
+  },
+  "73": {
+    "text": "A little girl is helping her father make breakfast A great girl is helping her father make breakfast",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 55.60000000000001
+  },
+  "74": {
+    "text": "A little girl is helping her father make breakfast A small girl is helping her father make breakfast",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 55.60000000000001
+  },
+  "75": {
+    "text": "A little girl is helping her father make breakfast A little girl is helping her dad make breakfast",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 55.60000000000001
+  },
+  "76": {
+    "text": "A little girl is helping her father make breakfast A tiny girl is helping her father make breakfast",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 55.60000000000001
+  },
+  "77": {
+    "text": "Two girls are below a stone sculpture. Two girls are below a bronze sculpture.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 57.099999999999994
+  },
+  "78": {
+    "text": "Two girls are below a stone sculpture. Two girls are below a wood sculpture.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 57.099999999999994
+  },
+  "79": {
+    "text": "Two girls are below a stone sculpture. Two girls are below a copper sculpture.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 57.099999999999994
+  },
+  "80": {
+    "text": "Two girls are below a stone sculpture. Two girls are below a sand sculpture.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 57.099999999999994
+  },
+  "81": {
+    "text": "Two girls are below a stone sculpture. Two girls are below a glass sculpture.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 57.099999999999994
+  },
+  "82": {
+    "text": "The man in the blue shirt is blocking the second person in the black shirt from view while looking into the center of the Earth. The man in the blue shirt is blocking the second person in the black shirt from view while looking into the center of the Venus.",
+    "lex_density": 0,
+    "num_sem_role": 18,
+    "lex_diversity": 38.0
+  },
+  "83": {
+    "text": "The man in the blue shirt is blocking the second person in the black shirt from view while looking into the center of the Earth. The man in the blue shirt is blocking the second person in the black shirt from view while looking into the center of the Pluto.",
+    "lex_density": 0,
+    "num_sem_role": 18,
+    "lex_diversity": 38.0
+  },
+  "84": {
+    "text": "The man in the blue shirt is blocking the second person in the black shirt from view while looking into the center of the Earth. The man in the blue shirt is blocking the second person in the black shirt from view while looking into the center of the Neptune.",
+    "lex_density": 0,
+    "num_sem_role": 18,
+    "lex_diversity": 38.0
+  },
+  "85": {
+    "text": "The man in the blue shirt is blocking the second person in the black shirt from view while looking into the center of the Earth. The man in the blue shirt is blocking the second person in the black shirt from view while looking into the center of the Jupiter.",
+    "lex_density": 0,
+    "num_sem_role": 18,
+    "lex_diversity": 38.0
+  },
+  "86": {
+    "text": "The man in the blue shirt is blocking the second person in the black shirt from view while looking into the center of the Earth. The man in the blue shirt is blocking the second person in the black shirt from view while looking into the center of the Mercury.",
+    "lex_density": 0,
+    "num_sem_role": 18,
+    "lex_diversity": 38.0
+  },
+  "87": {
+    "text": "A Chinese olympic squash player is laying face down on the court. A Japanese olympic squash player is laying face down on the court.",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 54.2
+  },
+  "88": {
+    "text": "A Chinese olympic squash player is laying face down on the court. A North Korean olympic squash player is laying face down on the court.",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 56.00000000000001
+  },
+  "89": {
+    "text": "A Chinese olympic squash player is laying face down on the court. An Indonesian olympic squash player is laying face down on the court.",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 58.3
+  },
+  "90": {
+    "text": "A Chinese olympic squash player is laying face down on the court. A South Korean olympic squash player is laying face down on the court.",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 56.00000000000001
+  },
+  "91": {
+    "text": "A Chinese olympic squash player is laying face down on the court. A Thai olympic squash player is laying face down on the court.",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 54.2
+  },
+  "92": {
+    "text": "A little person is on the moon. A large person is on the moon.",
+    "lex_density": 0,
+    "num_sem_role": 6,
+    "lex_diversity": 57.099999999999994
+  },
+  "93": {
+    "text": "A little person is on the moon. A little person is on the sun.",
+    "lex_density": 0,
+    "num_sem_role": 6,
+    "lex_diversity": 57.099999999999994
+  },
+  "94": {
+    "text": "A man on a bicycle rides his bike down a small street near his home as a garabage truck drives close behind. A man on a bicycle rides his bike down a little street near his home as a garabage truck drives close behind.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 43.2
+  },
+  "95": {
+    "text": "A man on a bicycle rides his bike down a small street near his home as a garabage truck drives close behind. A man on a bicycle rides his bike down a tiny street near his home as a garabage truck drives close behind.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 43.2
+  },
+  "96": {
+    "text": "A man on a bicycle rides his bike down a small street near his home as a garabage truck drives close behind. A man on a bicycle rides his bike down a big street near his home as a garabage truck drives close behind.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 43.2
+  },
+  "97": {
+    "text": "A man on a bicycle rides his bike down a small street near his home as a garabage truck drives close behind. A man on a bicycle rides his bike down a great street near his home as a garabage truck drives close behind.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 43.2
+  },
+  "98": {
+    "text": "A man on a bicycle rides his bike down a small street near his home as a garabage truck drives close behind. A man on a bicycle rides his bike down a small road near his home as a garabage truck drives close behind.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 43.2
+  },
+  "99": {
+    "text": "A guy and a girl talking on cement stairs outside near the bushes. A guy and a girl talking on cement stairs inside near the bushes.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 50.0
+  },
+  "100": {
+    "text": "A guy and a girl talking on cement stairs outside near the bushes. A guy and a girl talking on cement stairs outside far from the bushes.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 51.9
+  },
+  "101": {
+    "text": "A guy and a girl talking on cement stairs outside near the bushes. A guy and a boy talking on cement stairs outside near the bushes.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 50.0
+  },
+  "102": {
+    "text": "A guy and a girl talking on cement stairs outside near the bushes. A guy and a girl talking on cement stairs outside far away from the bushes.",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 53.6
+  },
+  "103": {
+    "text": "A guy and a girl talking on cement stairs outside near the bushes. A guy and a girl talking on stone stairs outside near the bushes.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 50.0
+  },
+  "104": {
+    "text": "The old man is painting a view of a bathroom. The old man is painting a view of a kitchen.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 50.0
+  },
+  "105": {
+    "text": "The old man is painting a view of a bathroom. The old man is painting a view of a dining room.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 52.400000000000006
+  },
+  "106": {
+    "text": "The old man is painting a view of a bathroom. The old man is painting a view of a living room.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 52.400000000000006
+  },
+  "107": {
+    "text": "The old man is painting a view of a bathroom. The old man is painting a view of a common room.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 52.400000000000006
+  },
+  "108": {
+    "text": "The old man is painting a view of a bathroom. The old man is painting a view of a garage.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 50.0
+  },
+  "109": {
+    "text": "The people are at home digging for silver. The people are at home digging for blue.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 56.2
+  },
+  "110": {
+    "text": "The people are at home digging for silver. The people are at home digging for green.",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 56.2
+  },
+  "111": {
+    "text": "The people are at home digging for silver. The people are at home digging for red.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 56.2
+  },
+  "112": {
+    "text": "The people are at home digging for silver. The people are at home digging for white.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 56.2
+  },
+  "113": {
+    "text": "The people are at home digging for silver. The people are at home digging for black.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 56.2
+  },
+  "114": {
+    "text": "A young women is out for a morning walk. A young women is out for a morning ride.",
+    "lex_density": 0,
+    "num_sem_role": 6,
+    "lex_diversity": 50.0
+  },
+  "115": {
+    "text": "A young women is out for a morning walk. A young women is out for a midnight walk.",
+    "lex_density": 0,
+    "num_sem_role": 6,
+    "lex_diversity": 50.0
+  },
+  "116": {
+    "text": "A young women is out for a morning walk. A senior women is out for a morning walk.",
+    "lex_density": 0,
+    "num_sem_role": 6,
+    "lex_diversity": 50.0
+  },
+  "117": {
+    "text": "A young women is out for a morning walk. An elderly women is out for a morning walk.",
+    "lex_density": 0,
+    "num_sem_role": 6,
+    "lex_diversity": 55.60000000000001
+  },
+  "118": {
+    "text": "A young women is out for a morning walk. An old women is out for a morning walk.",
+    "lex_density": 0,
+    "num_sem_role": 6,
+    "lex_diversity": 55.60000000000001
+  },
+  "119": {
+    "text": "The two girls rode a came near the water. The 7 girls rode a came near the water.",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 50.0
+  },
+  "120": {
+    "text": "The two girls rode a came near the water. The two girls rode a came far away from the water.",
+    "lex_density": 100,
+    "num_sem_role": 12,
+    "lex_diversity": 55.00000000000001
+  },
+  "121": {
+    "text": "The two girls rode a came near the water. The two girls rode a came far from the water.",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 52.6
+  },
+  "122": {
+    "text": "The two girls rode a came near the water. The 11 girls rode a came near the water.",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 50.0
+  },
+  "123": {
+    "text": "The two girls rode a came near the water. The 6 girls rode a came near the water.",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 50.0
+  },
+  "124": {
+    "text": "The little girl is coloring a picture to give to her mom. The tiny girl is coloring a picture to give to her mom.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 50.0
+  },
+  "125": {
+    "text": "The little girl is coloring a picture to give to her mom. The little girl is coloring a picture to give to her mother.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 50.0
+  },
+  "126": {
+    "text": "The little girl is coloring a picture to give to her mom. The big girl is coloring a picture to give to her mom.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 50.0
+  },
+  "127": {
+    "text": "The little girl is coloring a picture to give to her mom. The small girl is coloring a picture to give to her mom.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 50.0
+  },
+  "128": {
+    "text": "A man in a brown shirt is holding a hat that he just bought. A man in a green shirt is holding a hat that he just bought.",
+    "lex_density": 0,
+    "num_sem_role": 18,
+    "lex_diversity": 46.400000000000006
+  },
+  "129": {
+    "text": "A man in a brown shirt is holding a hat that he just bought. A man in a silver shirt is holding a hat that he just bought.",
+    "lex_density": 0,
+    "num_sem_role": 18,
+    "lex_diversity": 46.400000000000006
+  },
+  "130": {
+    "text": "A man in a brown shirt is holding a hat that he just bought. A man in a pink shirt is holding a hat that he just bought.",
+    "lex_density": 0,
+    "num_sem_role": 18,
+    "lex_diversity": 46.400000000000006
+  },
+  "131": {
+    "text": "A man in a brown shirt is holding a hat that he just bought. A man in a purple shirt is holding a hat that he just bought.",
+    "lex_density": 0,
+    "num_sem_role": 18,
+    "lex_diversity": 46.400000000000006
+  },
+  "132": {
+    "text": "A man in a brown shirt is holding a hat that he just bought. A man in a brown shirt is holding a hat that he just sold.",
+    "lex_density": 0,
+    "num_sem_role": 18,
+    "lex_diversity": 46.400000000000006
+  },
+  "133": {
+    "text": "An old woman is walking outside near the garden. A middle woman is walking outside near the garden.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 61.1
+  },
+  "134": {
+    "text": "An old woman is walking outside near the garden. An old woman is walking inside near the garden.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 55.60000000000001
+  },
+  "135": {
+    "text": "An old woman is walking outside near the garden. An old woman is walking outside far away from the garden.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 60.0
+  },
+  "136": {
+    "text": "An old woman is walking outside near the garden. An old woman is walking outside far from the garden.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 57.9
+  },
+  "137": {
+    "text": "there is a female wearing blue jacket busy on phone standing near window there is a female wearing blue jacket busy on phone standing far away from window",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 57.099999999999994
+  },
+  "138": {
+    "text": "there is a female wearing blue jacket busy on phone standing near window there is a female wearing beige jacket busy on phone standing near window",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 53.800000000000004
+  },
+  "139": {
+    "text": "there is a female wearing blue jacket busy on phone standing near window there is a female wearing orange jacket busy on phone standing near window",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 53.800000000000004
+  },
+  "140": {
+    "text": "there is a female wearing blue jacket busy on phone standing near window there is a female wearing blue jacket busy on phone standing far from window",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 55.60000000000001
+  },
+  "141": {
+    "text": "there is a female wearing blue jacket busy on phone standing near window there is a female wearing red jacket busy on phone standing near window",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 53.800000000000004
+  },
+  "142": {
+    "text": "A crowd gathers around a propped up Japanese food booth. A crowd gathers around a propped up Indians food booth.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 50.0
+  },
+  "143": {
+    "text": "A crowd gathers around a propped up Japanese food booth. A crowd gathers around a propped up Thai food booth.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 50.0
+  },
+  "144": {
+    "text": "A crowd gathers around a propped up Japanese food booth. A crowd gathers around a propped up Indonesian food booth.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 50.0
+  },
+  "145": {
+    "text": "A crowd gathers around a propped up Japanese food booth. A crowd gathers around a propped up South Korean food booth.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 52.400000000000006
+  },
+  "146": {
+    "text": "A crowd gathers around a propped up Japanese food booth. A crowd gathers around a propped up Vietnamese food booth.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 50.0
+  },
+  "147": {
+    "text": "The first baseman is up to bat. The 1st baseman is up to bat.",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 57.099999999999994
+  },
+  "148": {
+    "text": "The first baseman is up to bat. The second baseman is up to bat.",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 57.099999999999994
+  },
+  "149": {
+    "text": "The first baseman is up to bat. The 3rd baseman is up to bat.",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 57.099999999999994
+  },
+  "150": {
+    "text": "The first baseman is up to bat. The 2nd baseman is up to bat.",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 57.099999999999994
+  },
+  "151": {
+    "text": "The first baseman is up to bat. The third baseman is up to bat.",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 57.099999999999994
+  },
+  "152": {
+    "text": "Two sad men are talking, and the third man is talking on the phone and drinking wine. Two sad men are talking, and the third man is talking on the phone and drinking vodka.",
+    "lex_density": 100,
+    "num_sem_role": 20,
+    "lex_diversity": 44.1
+  },
+  "153": {
+    "text": "Two sad men are talking, and the third man is talking on the phone and drinking wine. Two sad men are talking, and the third man is talking on the phone and drinking tequila.",
+    "lex_density": 100,
+    "num_sem_role": 17,
+    "lex_diversity": 44.1
+  },
+  "154": {
+    "text": "Two sad men are talking, and the third man is talking on the phone and drinking wine. Two sad men are talking, and the third man is talking on the phone and drinking whisky.",
+    "lex_density": 100,
+    "num_sem_role": 17,
+    "lex_diversity": 44.1
+  },
+  "155": {
+    "text": "Two sad men are talking, and the third man is talking on the phone and drinking wine. Two sad men are talking, and the third man is talking on the phone and drinking cider.",
+    "lex_density": 100,
+    "num_sem_role": 17,
+    "lex_diversity": 44.1
+  },
+  "156": {
+    "text": "Two sad men are talking, and the third man is talking on the phone and drinking wine. Two sad men are talking, and the third man is talking on the phone and drinking gin.",
+    "lex_density": 100,
+    "num_sem_role": 17,
+    "lex_diversity": 44.1
+  },
+  "157": {
+    "text": "A lady with her hair pulled back stands in front of a brick wall in Baltimore. A lady with her hair pulled back stands in front of a cement wall in Baltimore.",
+    "lex_density": 100,
+    "num_sem_role": 13,
+    "lex_diversity": 46.9
+  },
+  "158": {
+    "text": "A lady with her hair pulled back stands in front of a brick wall in Baltimore. A lady with her hair pulled back stands in front of a plastic wall in Baltimore.",
+    "lex_density": 100,
+    "num_sem_role": 13,
+    "lex_diversity": 46.9
+  },
+  "159": {
+    "text": "A lady with her hair pulled back stands in front of a brick wall in Baltimore. A lady with her hair pulled back stands in front of a bronze wall in Baltimore.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 46.9
+  },
+  "160": {
+    "text": "A lady with her hair pulled back stands in front of a brick wall in Baltimore. A lady with her hair pulled back stands in front of a wood wall in Baltimore.",
+    "lex_density": 100,
+    "num_sem_role": 13,
+    "lex_diversity": 46.9
+  },
+  "161": {
+    "text": "A lady with her hair pulled back stands in front of a brick wall in Baltimore. A lady with her hair pulled back stands in front of a glass wall in Baltimore.",
+    "lex_density": 100,
+    "num_sem_role": 13,
+    "lex_diversity": 46.9
+  },
+  "162": {
+    "text": "A street shot of people in China. A street shot of people in Singapore.",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 57.099999999999994
+  },
+  "163": {
+    "text": "A street shot of people in China. A street shot of people in Malaysia.",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 57.099999999999994
+  },
+  "164": {
+    "text": "A street shot of people in China. A street shot of people in Vietnam.",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 57.099999999999994
+  },
+  "165": {
+    "text": "A street shot of people in China. A street shot of people in North Korea.",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 60.0
+  },
+  "166": {
+    "text": "A street shot of people in China. A street shot of people in Japan.",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 57.099999999999994
+  },
+  "167": {
+    "text": "There is an old man and a little girl looking very sad. There is an old man and a small girl looking very sad.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 54.2
+  },
+  "168": {
+    "text": "There is an old man and a little girl looking very sad. There is an old man and a little girl looking very unhappy.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 54.2
+  },
+  "169": {
+    "text": "There is an old man and a little girl looking very sad. There is an old man and a little girl looking very miserable.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 54.2
+  },
+  "170": {
+    "text": "There is an old man and a little girl looking very sad. There is an old man and a tiny girl looking very sad.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 54.2
+  },
+  "171": {
+    "text": "There is an old man and a little girl looking very sad. There is an old man and a big girl looking very sad.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 54.2
+  },
+  "172": {
+    "text": "A young man attempts to ride a bronc for the first time. A young man attempts to ride a bronc for the 11th time.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 50.0
+  },
+  "173": {
+    "text": "A young man attempts to ride a bronc for the first time. A young man attempts to ride a bronc for the 15th time.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 50.0
+  },
+  "174": {
+    "text": "A young man attempts to ride a bronc for the first time. A young man attempts to ride a bronc for the sixteenth time.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 50.0
+  },
+  "175": {
+    "text": "A young man attempts to ride a bronc for the first time. A young man attempts to ride a bronc for the 9th time.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 50.0
+  },
+  "176": {
+    "text": "A young man attempts to ride a bronc for the first time. A young man attempts to ride a bronc for the 8th time.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 50.0
+  },
+  "177": {
+    "text": "The people are standing in the kitchen. The people are standing in the dining room.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 53.300000000000004
+  },
+  "178": {
+    "text": "The people are standing in the kitchen. The people are standing in the bedroom.",
+    "lex_density": 0,
+    "num_sem_role": 8,
+    "lex_diversity": 50.0
+  },
+  "179": {
+    "text": "The people are standing in the kitchen. The people are standing in the classroom.",
+    "lex_density": 0,
+    "num_sem_role": 8,
+    "lex_diversity": 50.0
+  },
+  "180": {
+    "text": "The people are standing in the kitchen. The people are standing in the living room.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 53.300000000000004
+  },
+  "181": {
+    "text": "The people are standing in the kitchen. The people are standing in the prison cell.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 53.300000000000004
+  },
+  "182": {
+    "text": "A dark-haired woman sells flowers in the city. A white-haired woman sells flowers in the city.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 55.60000000000001
+  },
+  "183": {
+    "text": "A dark-haired woman sells flowers in the city. A dark-hairless woman sells flowers in the city.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 55.60000000000001
+  },
+  "184": {
+    "text": "A dark-haired woman sells flowers in the city. A dark-haired woman buys flowers in the city.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 55.60000000000001
+  },
+  "185": {
+    "text": "A dark-haired woman sells flowers in the city. A blond woman sells flowers in the city.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 58.8
+  },
+  "186": {
+    "text": "A small girl dressed in a yellow dress with flowers on it bends over near a large pile of watermelons. A big girl dressed in a yellow dress with flowers on it bends over near a large pile of watermelons.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 47.5
+  },
+  "187": {
+    "text": "A small girl dressed in a yellow dress with flowers on it bends over near a large pile of watermelons. A little girl dressed in a yellow dress with flowers on it bends over near a large pile of watermelons.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 47.5
+  },
+  "188": {
+    "text": "A small girl dressed in a yellow dress with flowers on it bends over near a large pile of watermelons. A small girl dressed in a yellow dress with flowers on it bends over close to a large pile of watermelons.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 48.8
+  },
+  "189": {
+    "text": "A small girl dressed in a yellow dress with flowers on it bends over near a large pile of watermelons. A small girl dressed in a red dress with flowers on it bends over near a large pile of watermelons.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 47.5
+  },
+  "190": {
+    "text": "A small girl dressed in a yellow dress with flowers on it bends over near a large pile of watermelons. A tiny girl dressed in a yellow dress with flowers on it bends over near a large pile of watermelons.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 47.5
+  },
+  "191": {
+    "text": "There is a man near some sand. There is a man far from some sand.",
+    "lex_density": 0,
+    "num_sem_role": 4,
+    "lex_diversity": 60.0
+  },
+  "192": {
+    "text": "There is a man near some sand. There is a man far away from some sand.",
+    "lex_density": 0,
+    "num_sem_role": 5,
+    "lex_diversity": 62.5
+  },
+  "193": {
+    "text": "A white dog refuses to go near the water. A brown dog refuses to go near the water.",
+    "lex_density": 100,
+    "num_sem_role": 12,
+    "lex_diversity": 55.60000000000001
+  },
+  "194": {
+    "text": "A white dog refuses to go near the water. A yellow dog refuses to go near the water.",
+    "lex_density": 100,
+    "num_sem_role": 12,
+    "lex_diversity": 55.60000000000001
+  },
+  "195": {
+    "text": "A white dog refuses to go near the water. A white dog refuses to go far away from the water.",
+    "lex_density": 100,
+    "num_sem_role": 12,
+    "lex_diversity": 60.0
+  },
+  "196": {
+    "text": "A white dog refuses to go near the water. A white dog refuses to go far from the water.",
+    "lex_density": 100,
+    "num_sem_role": 12,
+    "lex_diversity": 57.9
+  },
+  "197": {
+    "text": "A white dog refuses to go near the water. A black dog refuses to go near the water.",
+    "lex_density": 100,
+    "num_sem_role": 12,
+    "lex_diversity": 55.60000000000001
+  },
+  "198": {
+    "text": "Two men are playing accordions while standing near 2 black and burgundy antique cars. Two men are playing accordions while standing near 9 black and burgundy antique cars.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 53.6
+  },
+  "199": {
+    "text": "Two men are playing accordions while standing near 2 black and burgundy antique cars. Two men are playing accordions while standing near 7 black and burgundy antique cars.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 53.6
+  },
+  "200": {
+    "text": "Two men are playing accordions while standing near 2 black and burgundy antique cars. Two men are playing accordions while standing far away from 2 black and burgundy antique cars.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 56.699999999999996
+  },
+  "201": {
+    "text": "Two men are playing accordions while standing near 2 black and burgundy antique cars. Two men are playing accordions while standing far from 2 black and burgundy antique cars.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 55.2
+  },
+  "202": {
+    "text": "Two men are playing accordions while standing near 2 black and burgundy antique cars. Two men are playing accordions while running near 2 black and burgundy antique cars.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 53.6
+  },
+  "203": {
+    "text": "The camera was tilted to the side to show this small room containing a number of different umbrellas in solid colors of red, blue, and black, most of them open and on the floor, while a woman stands behind them near the door to the room. The camera was tilted to the side to show this tiny room containing a number of different umbrellas in solid colors of red, blue, and black, most of them open and on the floor, while a woman stands behind them near the door to the room.",
+    "lex_density": 100,
+    "num_sem_role": 28,
+    "lex_diversity": 38.0
+  },
+  "204": {
+    "text": "The camera was tilted to the side to show this small room containing a number of different umbrellas in solid colors of red, blue, and black, most of them open and on the floor, while a woman stands behind them near the door to the room. The camera was tilted to the side to show this small room containing a number of different umbrellas in solid colors of red, silver, and black, most of them open and on the floor, while a woman stands behind them near the door to the room.",
+    "lex_density": 100,
+    "num_sem_role": 28,
+    "lex_diversity": 38.0
+  },
+  "205": {
+    "text": "The camera was tilted to the side to show this small room containing a number of different umbrellas in solid colors of red, blue, and black, most of them open and on the floor, while a woman stands behind them near the door to the room. The camera was tilted to the side to show this small room containing a number of different umbrellas in solid colors of red, blue, and black, most of them open and on the floor, while a woman stands behind them far away from the door to the room.",
+    "lex_density": 100,
+    "num_sem_role": 29,
+    "lex_diversity": 39.4
+  },
+  "206": {
+    "text": "The camera was tilted to the side to show this small room containing a number of different umbrellas in solid colors of red, blue, and black, most of them open and on the floor, while a woman stands behind them near the door to the room. The camera was tilted to the side to show this small room containing a number of different umbrellas in solid colors of red, blue, and black, most of them open and on the floor, while a woman stands behind them far from the door to the room.",
+    "lex_density": 100,
+    "num_sem_role": 28,
+    "lex_diversity": 38.7
+  },
+  "207": {
+    "text": "Two older men drinking beer Two older men drinking whisky",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 60.0
+  },
+  "208": {
+    "text": "Two older men drinking beer Two older men drinking gin",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 60.0
+  },
+  "209": {
+    "text": "Two older men drinking beer Two older men drinking tequila",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 60.0
+  },
+  "210": {
+    "text": "Two older men drinking beer Two older men drinking cider",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 60.0
+  },
+  "211": {
+    "text": "Two older men drinking beer Two older men drinking vodka",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 60.0
+  },
+  "212": {
+    "text": "A woman in a brown jacket taking a picture near two other people. A woman in a brown jacket taking a picture near two identical people.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 46.2
+  },
+  "213": {
+    "text": "A woman in a brown jacket taking a picture near two other people. A woman in a brown jacket taking a picture close to two other people.",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 48.1
+  },
+  "214": {
+    "text": "A woman in a brown jacket taking a picture near two other people. A woman in a brown jacket taking a picture far away from two other people.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 50.0
+  },
+  "215": {
+    "text": "A woman in a brown jacket taking a picture near two other people. A woman in a brown jacket taking a picture far from two other people.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 48.1
+  },
+  "216": {
+    "text": "The man is sitting on the toilet in the bathroom. The man is sitting on the toilet in the common room.",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 47.599999999999994
+  },
+  "217": {
+    "text": "The man is sitting on the toilet in the bathroom. The man is sitting on the toilet in the bedroom.",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 45.0
+  },
+  "218": {
+    "text": "The man is sitting on the toilet in the bathroom. The man is sitting on the toilet in the dining room.",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 47.599999999999994
+  },
+  "219": {
+    "text": "The man is sitting on the toilet in the bathroom. The man is sitting on the toilet in the courtroom.",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 45.0
+  },
+  "220": {
+    "text": "The man is sitting on the toilet in the bathroom. The man is sitting on the toilet in the classroom.",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 45.0
+  },
+  "221": {
+    "text": "The man was sitting outside near the blue doors. The man was sitting outside far away from the blue doors.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 55.00000000000001
+  },
+  "222": {
+    "text": "The man was sitting outside near the blue doors. The man was sitting outside near the silver doors.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 50.0
+  },
+  "223": {
+    "text": "The man was sitting outside near the blue doors. The man was sitting outside near the white doors.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 50.0
+  },
+  "224": {
+    "text": "The man was sitting outside near the blue doors. The man was sitting outside far from the blue doors.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 52.6
+  },
+  "225": {
+    "text": "The man was sitting outside near the blue doors. The man was sitting inside near the blue doors.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 50.0
+  },
+  "226": {
+    "text": "A big brown dog plays with a small white dog near a ball. A big brown dog plays with a tiny white dog near a ball.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 42.3
+  },
+  "227": {
+    "text": "A big brown dog plays with a small white dog near a ball. A big brown dog plays with a little white dog near a ball.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 42.3
+  },
+  "228": {
+    "text": "A big brown dog plays with a small white dog near a ball. A big brown dog plays with a small white dog close to a ball.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 44.4
+  },
+  "229": {
+    "text": "A big brown dog plays with a small white dog near a ball. A big brown dog plays with a small pink dog near a ball.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 42.3
+  },
+  "230": {
+    "text": "A big brown dog plays with a small white dog near a ball. A big brown dog plays with a big white dog near a ball.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 38.5
+  },
+  "231": {
+    "text": "The two men are sitting in front of the fountain. The ten men are sitting in front of the fountain.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 50.0
+  },
+  "232": {
+    "text": "The two men are sitting in front of the fountain. The nine men are sitting in front of the fountain.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 50.0
+  },
+  "233": {
+    "text": "The two men are sitting in front of the fountain. The eleven men are sitting in front of the fountain.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 50.0
+  },
+  "234": {
+    "text": "The two men are sitting in front of the fountain. The six men are sitting in front of the fountain.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 50.0
+  },
+  "235": {
+    "text": "The two men are sitting in front of the fountain. The twelve men are sitting in front of the fountain.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 50.0
+  },
+  "236": {
+    "text": "Two men are setting up scaffolding next to a brick building. Two men are setting up scaffolding next to a sand building.",
+    "lex_density": 100,
+    "num_sem_role": 15,
+    "lex_diversity": 54.50000000000001
+  },
+  "237": {
+    "text": "Two men are setting up scaffolding next to a brick building. Two men are setting up scaffolding next to a cement building.",
+    "lex_density": 100,
+    "num_sem_role": 15,
+    "lex_diversity": 54.50000000000001
+  },
+  "238": {
+    "text": "Two men are setting up scaffolding next to a brick building. Two men are setting up scaffolding next to a glass building.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 54.50000000000001
+  },
+  "239": {
+    "text": "Two men are setting up scaffolding next to a brick building. Two men are setting up scaffolding next to a wood building.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 54.50000000000001
+  },
+  "240": {
+    "text": "Two men are setting up scaffolding next to a brick building. Two men are setting up scaffolding next to a plastic building.",
+    "lex_density": 100,
+    "num_sem_role": 15,
+    "lex_diversity": 54.50000000000001
+  },
+  "241": {
+    "text": "The woman is so happy she won her competition. The woman is so pleased she won her competition.",
+    "lex_density": 0,
+    "num_sem_role": 12,
+    "lex_diversity": 55.60000000000001
+  },
+  "242": {
+    "text": "The woman is so happy she won her competition. The woman is so unhappy she won her competition.",
+    "lex_density": 0,
+    "num_sem_role": 12,
+    "lex_diversity": 55.60000000000001
+  },
+  "243": {
+    "text": "The woman is so happy she won her competition. The woman is so delighted she won her competition.",
+    "lex_density": 0,
+    "num_sem_role": 12,
+    "lex_diversity": 55.60000000000001
+  },
+  "244": {
+    "text": "The woman is so happy she won her competition. The woman is so miserable she won her competition.",
+    "lex_density": 0,
+    "num_sem_role": 12,
+    "lex_diversity": 55.60000000000001
+  },
+  "245": {
+    "text": "The woman is so happy she won her competition. The woman is so glad she won her competition.",
+    "lex_density": 0,
+    "num_sem_role": 12,
+    "lex_diversity": 55.60000000000001
+  },
+  "246": {
+    "text": "The woman is drinking vodka. The woman is drinking tequila.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 60.0
+  },
+  "247": {
+    "text": "The woman is drinking vodka. The woman is drinking champagne.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 60.0
+  },
+  "248": {
+    "text": "The woman is drinking vodka. The woman is drinking gin.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 60.0
+  },
+  "249": {
+    "text": "The woman is drinking vodka. The woman is drinking whisky.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 60.0
+  },
+  "250": {
+    "text": "The woman is drinking vodka. The woman is drinking cider.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 60.0
+  },
+  "251": {
+    "text": "A man is winning a street bike race in Germany. A man is winning a street bike race in Switzerland.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 50.0
+  },
+  "252": {
+    "text": "A man is winning a street bike race in Germany. A man is winning a street bike race in Belgium.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 50.0
+  },
+  "253": {
+    "text": "A man is winning a street bike race in Germany. A man is winning a street bike race in Norway.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 50.0
+  },
+  "254": {
+    "text": "A man is winning a street bike race in Germany. A man is winning a street bike race in Holland.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 50.0
+  },
+  "255": {
+    "text": "A man is winning a street bike race in Germany. A man is winning a street bike race in Sweden.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 50.0
+  },
+  "256": {
+    "text": "There is a girl running near the water. There is a girl passing near the water.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 56.2
+  },
+  "257": {
+    "text": "There is a girl running near the water. There is a girl standing near the water.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 56.2
+  },
+  "258": {
+    "text": "There is a girl running near the water. There is a girl running far from the water.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 58.8
+  },
+  "259": {
+    "text": "There is a girl running near the water. There is a boy running near the water.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 56.2
+  },
+  "260": {
+    "text": "There is a girl running near the water. There is a girl running far away from the water.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 61.1
+  },
+  "261": {
+    "text": "A cowboy stands near two sheep and a dog at a rodeo. A cowboy stands near four sheep and a dog at a rodeo.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 45.800000000000004
+  },
+  "262": {
+    "text": "A cowboy stands near two sheep and a dog at a rodeo. A cowboy stands far from two sheep and a dog at a rodeo.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 48.0
+  },
+  "263": {
+    "text": "A cowboy stands near two sheep and a dog at a rodeo. A cowboy stands near 8 sheep and a dog at a rodeo.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 45.800000000000004
+  },
+  "264": {
+    "text": "A cowboy stands near two sheep and a dog at a rodeo. A cowboy stands near three sheep and a dog at a rodeo.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 45.800000000000004
+  },
+  "265": {
+    "text": "A cowboy stands near two sheep and a dog at a rodeo. A cowboy stands far away from two sheep and a dog at a rodeo.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 50.0
+  },
+  "266": {
+    "text": "A little girl jumping to avoid a stone in the sand. A little girl jumping to avoid a stone in the glass.",
+    "lex_density": 100,
+    "num_sem_role": 12,
+    "lex_diversity": 50.0
+  },
+  "267": {
+    "text": "Several men are drinking beer. Several men are drinking gin.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 60.0
+  },
+  "268": {
+    "text": "Several men are drinking beer. Several men are drinking tequila.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 60.0
+  },
+  "269": {
+    "text": "Several men are drinking beer. Several men are drinking vodka.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 60.0
+  },
+  "270": {
+    "text": "Several men are drinking beer. Several men are drinking whisky.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 60.0
+  },
+  "271": {
+    "text": "Several men are drinking beer. Several men are drinking cider.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 60.0
+  },
+  "272": {
+    "text": "A boy is jumping over shallow water near some large rocks. A boy is jumping over shallow water near some little rocks.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 54.50000000000001
+  },
+  "273": {
+    "text": "A boy is jumping over shallow water near some large rocks. A boy is jumping over shallow water far from some large rocks.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 56.49999999999999
+  },
+  "274": {
+    "text": "A boy is jumping over shallow water near some large rocks. A boy is jumping over shallow water near some small rocks.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 54.50000000000001
+  },
+  "275": {
+    "text": "A boy is jumping over shallow water near some large rocks. A boy is jumping over shallow water far away from some large rocks.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 58.3
+  },
+  "276": {
+    "text": "A boy is jumping over shallow water near some large rocks. A boy is jumping over deep water near some large rocks.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 54.50000000000001
+  },
+  "277": {
+    "text": "The man just bought the couch the day previous. The man just sold the couch the day previous.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 44.4
+  },
+  "278": {
+    "text": "The man just bought the couch the day previous. The woman just bought the couch the day previous.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 44.4
+  },
+  "279": {
+    "text": "Four mountaineers are walking on a trail under the moon that is visible in the blue sky. Four mountaineers are walking on a trail under the moon that is visible in the silver sky.",
+    "lex_density": 0,
+    "num_sem_role": 16,
+    "lex_diversity": 50.0
+  },
+  "280": {
+    "text": "Four mountaineers are walking on a trail under the moon that is visible in the blue sky. Four mountaineers are walking on a trail under the moon that is visible in the orange sky.",
+    "lex_density": 0,
+    "num_sem_role": 18,
+    "lex_diversity": 50.0
+  },
+  "281": {
+    "text": "Four mountaineers are walking on a trail under the moon that is visible in the blue sky. Four mountaineers are walking on a trail under the sun that is visible in the blue sky.",
+    "lex_density": 0,
+    "num_sem_role": 17,
+    "lex_diversity": 50.0
+  },
+  "282": {
+    "text": "Four mountaineers are walking on a trail under the moon that is visible in the blue sky. Four mountaineers are walking on a trail under the moon that is visible in the white sky.",
+    "lex_density": 0,
+    "num_sem_role": 16,
+    "lex_diversity": 50.0
+  },
+  "283": {
+    "text": "Four mountaineers are walking on a trail under the moon that is visible in the blue sky. Four mountaineers are walking on a trail under the moon that is visible in the black sky.",
+    "lex_density": 0,
+    "num_sem_role": 17,
+    "lex_diversity": 50.0
+  },
+  "284": {
+    "text": "The little girl crosses the street alone. The great girl crosses the street alone.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 50.0
+  },
+  "285": {
+    "text": "The little girl crosses the street alone. The small girl crosses the street alone.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 50.0
+  },
+  "286": {
+    "text": "The little girl crosses the street alone. The tiny girl crosses the street alone.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 50.0
+  },
+  "287": {
+    "text": "The little girl crosses the street alone. The large girl crosses the street alone.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 50.0
+  },
+  "288": {
+    "text": "The little girl crosses the street alone. The little girl crosses the road alone.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 50.0
+  },
+  "289": {
+    "text": "Two men operate a cement truck in the daytime, wearing white t-shirts and blue jeans, and one of them talking on a mobile phone. Two men operate a cement truck in the nighttime, wearing white t-shirts and blue jeans, and one of them talking on a mobile phone.",
+    "lex_density": 100,
+    "num_sem_role": 24,
+    "lex_diversity": 48.0
+  },
+  "290": {
+    "text": "Two men operate a cement truck in the daytime, wearing white t-shirts and blue jeans, and one of them talking on a mobile phone. Two men operate a cement truck in the daytime, wearing white t-shirts and silver jeans, and one of them talking on a mobile phone.",
+    "lex_density": 100,
+    "num_sem_role": 24,
+    "lex_diversity": 48.0
+  },
+  "291": {
+    "text": "Two men operate a cement truck in the daytime, wearing white t-shirts and blue jeans, and one of them talking on a mobile phone. Two men operate a cement truck in the daytime, wearing white t-shirts and green jeans, and one of them talking on a mobile phone.",
+    "lex_density": 100,
+    "num_sem_role": 24,
+    "lex_diversity": 48.0
+  },
+  "292": {
+    "text": "Two men operate a cement truck in the daytime, wearing white t-shirts and blue jeans, and one of them talking on a mobile phone. Two men operate a cement truck in the daytime, wearing white t-shirts and black jeans, and one of them talking on a mobile phone.",
+    "lex_density": 100,
+    "num_sem_role": 23,
+    "lex_diversity": 48.0
+  },
+  "293": {
+    "text": "Two men operate a cement truck in the daytime, wearing white t-shirts and blue jeans, and one of them talking on a mobile phone. Two men operate a cement truck in the night, wearing white t-shirts and blue jeans, and one of them talking on a mobile phone.",
+    "lex_density": 100,
+    "num_sem_role": 24,
+    "lex_diversity": 48.0
+  },
+  "294": {
+    "text": "A blue bird is near the ocean. A black bird is near the ocean.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 57.099999999999994
+  },
+  "295": {
+    "text": "A blue bird is near the ocean. A blue bird is far from the ocean.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 60.0
+  },
+  "296": {
+    "text": "A blue bird is near the ocean. A blue bird is far away from the ocean.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 62.5
+  },
+  "297": {
+    "text": "A blue bird is near the ocean. An orange bird is near the ocean.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 64.3
+  },
+  "298": {
+    "text": "A blue bird is near the ocean. A brown bird is near the ocean.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 57.099999999999994
+  },
+  "299": {
+    "text": "A young man wearing a green shirt is tending to a tomato plant. A young man wearing a green shirt is tending to a potato plant.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 46.2
+  },
+  "300": {
+    "text": "A young man wearing a green shirt is tending to a tomato plant. An elderly man wearing a green shirt is tending to a tomato plant.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 50.0
+  },
+  "301": {
+    "text": "A young man wearing a green shirt is tending to a tomato plant. A young man wearing a pink shirt is tending to a tomato plant.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 46.2
+  },
+  "302": {
+    "text": "A young man wearing a green shirt is tending to a tomato plant. A young man wearing a yellow shirt is tending to a tomato plant.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 46.2
+  },
+  "303": {
+    "text": "A martial artist breaks a brick. A martial artist breaks a glass.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 50.0
+  },
+  "304": {
+    "text": "The Chinese man is a waiter. The Indonesian man is a waiter.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 58.3
+  },
+  "305": {
+    "text": "The Chinese man is a waiter. The Indians man is a waiter.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 58.3
+  },
+  "306": {
+    "text": "The Chinese man is a waiter. The North Korean man is a waiter.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 61.5
+  },
+  "307": {
+    "text": "The Chinese man is a waiter. The Vietnamese man is a waiter.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 58.3
+  },
+  "308": {
+    "text": "The Chinese man is a waiter. The Thai man is a waiter.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 58.3
+  },
+  "309": {
+    "text": "There are two small girls smiling in a hallway There are two small girls smiling in a common room",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 57.9
+  },
+  "310": {
+    "text": "There are two small girls smiling in a hallway There are two small girls smiling in a living room",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 57.9
+  },
+  "311": {
+    "text": "There are two small girls smiling in a hallway There are two small girls smiling in a prison cell",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 57.9
+  },
+  "312": {
+    "text": "There are two small girls smiling in a hallway There are two small girls smiling in a dining room",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 57.9
+  },
+  "313": {
+    "text": "There are two small girls smiling in a hallway There are two small girls smiling in a garage",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 55.60000000000001
+  },
+  "314": {
+    "text": "A boy and a girl at the beach, throwing sand. A boy and a girl at the beach, throwing glass.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 50.0
+  },
+  "315": {
+    "text": "The man cannot get the four wheeler to turn for some reason. The man cannot get the four wheeler to turn for every reason.",
+    "lex_density": 100,
+    "num_sem_role": 19,
+    "lex_diversity": 50.0
+  },
+  "316": {
+    "text": "The man cannot get the four wheeler to turn for some reason. The man cannot get the 4 wheeler to turn for some reason.",
+    "lex_density": 0,
+    "num_sem_role": 18,
+    "lex_diversity": 50.0
+  },
+  "317": {
+    "text": "The man cannot get the four wheeler to turn for some reason. The man can get the four wheeler to turn for some reason.",
+    "lex_density": 100,
+    "num_sem_role": 17,
+    "lex_diversity": 48.0
+  },
+  "318": {
+    "text": "The man cannot get the four wheeler to turn for some reason. The woman cannot get the four wheeler to turn for some reason.",
+    "lex_density": 0,
+    "num_sem_role": 18,
+    "lex_diversity": 50.0
+  },
+  "319": {
+    "text": "an elderly woman stands outside near some trees and an architectural design that she built an elderly woman stands outside far from some trees and an architectural design that she built",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 51.6
+  },
+  "320": {
+    "text": "an elderly woman stands outside near some trees and an architectural design that she built an elderly woman stands outside close to some trees and an architectural design that she built",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 51.6
+  },
+  "321": {
+    "text": "an elderly woman stands outside near some trees and an architectural design that she built an elderly man stands outside near some trees and an architectural design that she built",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 50.0
+  },
+  "322": {
+    "text": "an elderly woman stands outside near some trees and an architectural design that she built an elderly woman stands outside far away from some trees and an architectural design that she built",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 53.1
+  },
+  "323": {
+    "text": "an elderly woman stands outside near some trees and an architectural design that she built an elderly woman stands inside near some trees and an architectural design that she built",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 50.0
+  },
+  "324": {
+    "text": "The man was wearing a red jacket for the first time. The man was wearing a red jacket for the 11th time.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 50.0
+  },
+  "325": {
+    "text": "The man was wearing a red jacket for the first time. The man was wearing a red jacket for the sixteenth time.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 50.0
+  },
+  "326": {
+    "text": "The man was wearing a red jacket for the first time. The man was wearing a red jacket for the 3rd time.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 50.0
+  },
+  "327": {
+    "text": "The man was wearing a red jacket for the first time. The man was wearing a red jacket for the 50th time.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 50.0
+  },
+  "328": {
+    "text": "The man was wearing a red jacket for the first time. The man was wearing a red jacket for the 9th time.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 50.0
+  },
+  "329": {
+    "text": "Old Indian woman shops for groceries. Old North Korean woman shops for groceries.",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 61.5
+  },
+  "330": {
+    "text": "Old Indian woman shops for groceries. Old Vietnamese woman shops for groceries.",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 58.3
+  },
+  "331": {
+    "text": "Old Indian woman shops for groceries. Old South Korean woman shops for groceries.",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 61.5
+  },
+  "332": {
+    "text": "Old Indian woman shops for groceries. Old Indonesian woman shops for groceries.",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 58.3
+  },
+  "333": {
+    "text": "Old Indian woman shops for groceries. Old Thai woman shops for groceries.",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 58.3
+  },
+  "334": {
+    "text": "On a street in England, people watch a construction vehicle work on the road. On a street in Canada, people watch a construction vehicle work on the road.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 46.400000000000006
+  },
+  "335": {
+    "text": "On a street in England, people watch a construction vehicle work on the road. On a street in England, people watch a construction vehicle work on the street.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 42.9
+  },
+  "336": {
+    "text": "On a street in England, people watch a construction vehicle work on the road. On a street in Ireland, people watch a construction vehicle work on the road.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 46.400000000000006
+  },
+  "337": {
+    "text": "On a street in England, people watch a construction vehicle work on the road. On a street in Australia, people watch a construction vehicle work on the road.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 46.400000000000006
+  },
+  "338": {
+    "text": "On a street in England, people watch a construction vehicle work on the road. On a street in New Zealand, people watch a construction vehicle work on the road.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 48.3
+  },
+  "339": {
+    "text": "The runners are members of a Greek organization. The runners are members of a Palestinian organization.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 56.2
+  },
+  "340": {
+    "text": "The runners are members of a Greek organization. The runners are members of a French organization.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 56.2
+  },
+  "341": {
+    "text": "The runners are members of a Greek organization. The runners are members of an Italian organization.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 62.5
+  },
+  "342": {
+    "text": "The runners are members of a Greek organization. The runners are members of an Israeli organization.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 62.5
+  },
+  "343": {
+    "text": "The runners are members of a Greek organization. The runners are members of an Egyptian organization.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 62.5
+  },
+  "344": {
+    "text": "A boy is waiting for the enemy to strike them first. A boy is waiting for the enemy to strike them thirteenth.",
+    "lex_density": 0,
+    "num_sem_role": 16,
+    "lex_diversity": 54.50000000000001
+  },
+  "345": {
+    "text": "A boy is waiting for the enemy to strike them first. A boy is waiting for the enemy to strike them 18th.",
+    "lex_density": 0,
+    "num_sem_role": 16,
+    "lex_diversity": 54.50000000000001
+  },
+  "346": {
+    "text": "A boy is waiting for the enemy to strike them first. A boy is waiting for the enemy to strike them 14th.",
+    "lex_density": 0,
+    "num_sem_role": 16,
+    "lex_diversity": 54.50000000000001
+  },
+  "347": {
+    "text": "A boy is waiting for the enemy to strike them first. A boy is waiting for the enemy to strike them 30th.",
+    "lex_density": 0,
+    "num_sem_role": 16,
+    "lex_diversity": 54.50000000000001
+  },
+  "348": {
+    "text": "A boy is waiting for the enemy to strike them first. A boy is waiting for the enemy to strike them 16th.",
+    "lex_density": 0,
+    "num_sem_role": 16,
+    "lex_diversity": 54.50000000000001
+  },
+  "349": {
+    "text": "The walls are stronger with metal supports rather than wood. The walls are stronger with metal supports rather than cement.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 55.00000000000001
+  },
+  "350": {
+    "text": "The walls are stronger with metal supports rather than wood. The walls are stronger with metal supports rather than copper.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 55.00000000000001
+  },
+  "351": {
+    "text": "The walls are stronger with metal supports rather than wood. The walls are stronger with metal supports rather than aluminium.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 55.00000000000001
+  },
+  "352": {
+    "text": "The walls are stronger with metal supports rather than wood. The walls are stronger with metal supports rather than titanium.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 55.00000000000001
+  },
+  "353": {
+    "text": "The walls are stronger with metal supports rather than wood. The walls are stronger with metal supports rather than bronze.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 55.00000000000001
+  },
+  "354": {
+    "text": "There are two women dressed in traditional Japanese clothing performing a play. There are two women dressed in traditional Chinese clothing performing a play.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 54.2
+  },
+  "355": {
+    "text": "There are two women dressed in traditional Japanese clothing performing a play. There are two women dressed in traditional North Korean clothing performing a play.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 56.00000000000001
+  },
+  "356": {
+    "text": "There are two women dressed in traditional Japanese clothing performing a play. There are two women dressed in traditional Vietnamese clothing performing a play.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 54.2
+  },
+  "357": {
+    "text": "There are two women dressed in traditional Japanese clothing performing a play. There are two women dressed in traditional South Korean clothing performing a play.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 56.00000000000001
+  },
+  "358": {
+    "text": "There are two women dressed in traditional Japanese clothing performing a play. There are two women dressed in traditional Indian clothing performing a play.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 54.2
+  },
+  "359": {
+    "text": "Woman making a sand castle at the beach. Woman making a glass castle at the beach.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 56.2
+  },
+  "360": {
+    "text": "The man is passed out from drinking beer. The man is passed out from drinking gin.",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 56.2
+  },
+  "361": {
+    "text": "The man is passed out from drinking beer. The man is passed out from drinking champagne.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 56.2
+  },
+  "362": {
+    "text": "The man is passed out from drinking beer. The man is passed out from drinking tequila.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 56.2
+  },
+  "363": {
+    "text": "The man is passed out from drinking beer. The man is passed out from drinking whisky.",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 56.2
+  },
+  "364": {
+    "text": "The man is passed out from drinking beer. The man is passed out from drinking cider.",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 56.2
+  },
+  "365": {
+    "text": "An elderly woman is sitting on a bench with a white cup in her hand. An elderly woman is sitting on a bench with a red cup in her hand.",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 50.0
+  },
+  "366": {
+    "text": "An elderly woman is sitting on a bench with a white cup in her hand. An elderly woman is sitting on a bench with a green cup in her hand.",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 50.0
+  },
+  "367": {
+    "text": "An elderly woman is sitting on a bench with a white cup in her hand. An elderly woman is sitting on a bench with a silver cup in her hand.",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 50.0
+  },
+  "368": {
+    "text": "An elderly woman is sitting on a bench with a white cup in her hand. An elderly woman is sitting on a bench with a blue cup in her hand.",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 50.0
+  },
+  "369": {
+    "text": "An elderly woman is sitting on a bench with a white cup in her hand. An elderly woman is sitting on a bench with a brown cup in her hand.",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 50.0
+  },
+  "370": {
+    "text": "A Japanese woman walks down the street. A Vietnamese woman walks down the street.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 57.099999999999994
+  },
+  "371": {
+    "text": "A Japanese woman walks down the street. A North Korean woman walks down the street.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 60.0
+  },
+  "372": {
+    "text": "A Japanese woman walks down the street. An Indonesian woman walks down the street.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 64.3
+  },
+  "373": {
+    "text": "A Japanese woman walks down the street. A South Korean woman walks down the street.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 60.0
+  },
+  "374": {
+    "text": "A Japanese woman walks down the street. A Thai woman walks down the street.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 57.099999999999994
+  },
+  "375": {
+    "text": "Three guys sitting on a sandy beach near the water and one is talking to the two little girls. Three guys sitting on a sandy beach far from the water and one is talking to the two little girls.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 51.300000000000004
+  },
+  "376": {
+    "text": "Three guys sitting on a sandy beach near the water and one is talking to the two little girls. Three guys sitting on a sandy beach far away from the water and one is talking to the two little girls.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 52.5
+  },
+  "377": {
+    "text": "Three guys sitting on a sandy beach near the water and one is talking to the two little girls. Three guys sitting on a sandy beach near the water and one is talking to the six little girls.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 50.0
+  },
+  "378": {
+    "text": "Three guys sitting on a sandy beach near the water and one is talking to the two little girls. Three guys sitting on a sandy beach near the water and one is talking to the 6 little girls.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 50.0
+  },
+  "379": {
+    "text": "The two men are trying to move the sofa across a river and have chosen to take a raft. The 6 men are trying to move the sofa across a river and have chosen to take a raft.",
+    "lex_density": 100,
+    "num_sem_role": 30,
+    "lex_diversity": 44.7
+  },
+  "380": {
+    "text": "The two men are trying to move the sofa across a river and have chosen to take a raft. The seven men are trying to move the sofa across a river and have chosen to take a raft.",
+    "lex_density": 100,
+    "num_sem_role": 30,
+    "lex_diversity": 44.7
+  },
+  "381": {
+    "text": "The two men are trying to move the sofa across a river and have chosen to take a raft. The five men are trying to move the sofa across a river and have chosen to take a raft.",
+    "lex_density": 100,
+    "num_sem_role": 30,
+    "lex_diversity": 44.7
+  },
+  "382": {
+    "text": "The two men are trying to move the sofa across a river and have chosen to take a raft. The eight men are trying to move the sofa across a river and have chosen to take a raft.",
+    "lex_density": 100,
+    "num_sem_role": 30,
+    "lex_diversity": 44.7
+  },
+  "383": {
+    "text": "The two men are trying to move the sofa across a river and have chosen to take a raft. The eleven men are trying to move the sofa across a river and have chosen to take a raft.",
+    "lex_density": 100,
+    "num_sem_role": 30,
+    "lex_diversity": 44.7
+  },
+  "384": {
+    "text": "An older man had just bought some biscuits from a little girl for charity. An older man had just bought some biscuits from a tiny girl for charity.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 53.6
+  },
+  "385": {
+    "text": "An older man had just bought some biscuits from a little girl for charity. An older man had just bought some biscuits from a small girl for charity.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 53.6
+  },
+  "386": {
+    "text": "An older man had just bought some biscuits from a little girl for charity. An older man had just bought some biscuits from a big girl for charity.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 53.6
+  },
+  "387": {
+    "text": "A person is on holiday in Mexico A person is on holiday in Argentina",
+    "lex_density": 0,
+    "num_sem_role": 6,
+    "lex_diversity": 57.099999999999994
+  },
+  "388": {
+    "text": "A person is on holiday in Mexico A person is on holiday in Brazil",
+    "lex_density": 0,
+    "num_sem_role": 6,
+    "lex_diversity": 57.099999999999994
+  },
+  "389": {
+    "text": "A person is on holiday in Mexico A person is on holiday in Spain",
+    "lex_density": 0,
+    "num_sem_role": 6,
+    "lex_diversity": 57.099999999999994
+  },
+  "390": {
+    "text": "A person is on holiday in Mexico A person is on holiday in Venezuela",
+    "lex_density": 0,
+    "num_sem_role": 6,
+    "lex_diversity": 57.099999999999994
+  },
+  "391": {
+    "text": "A person is on holiday in Mexico A person is on holiday in Peru",
+    "lex_density": 0,
+    "num_sem_role": 6,
+    "lex_diversity": 57.099999999999994
+  },
+  "392": {
+    "text": "A woman puts on red lipstick while standing very close to the mirror. A woman puts on red lipstick while standing very far away from the mirror.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 59.3
+  },
+  "393": {
+    "text": "A woman puts on red lipstick while standing very close to the mirror. A woman puts on red lipstick while standing very far from the mirror.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 57.699999999999996
+  },
+  "394": {
+    "text": "A woman puts on red lipstick while standing very close to the mirror. A woman puts on black lipstick while standing very close to the mirror.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 53.800000000000004
+  },
+  "395": {
+    "text": "A woman puts on red lipstick while standing very close to the mirror. A woman puts on red lipstick while running very close to the mirror.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 53.800000000000004
+  },
+  "396": {
+    "text": "A woman puts on red lipstick while standing very close to the mirror. A man puts on red lipstick while standing very close to the mirror.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 53.800000000000004
+  },
+  "397": {
+    "text": "A young child swims for the first time. A young child swims for the ninth time.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 56.2
+  },
+  "398": {
+    "text": "A young child swims for the first time. A young child swims for the 18th time.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 56.2
+  },
+  "399": {
+    "text": "A young child swims for the first time. A young child swims for the 100th time.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 56.2
+  },
+  "400": {
+    "text": "A young child swims for the first time. A young child swims for the 12th time.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 56.2
+  },
+  "401": {
+    "text": "A young child swims for the first time. A young child swims for the 20th time.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 56.2
+  },
+  "402": {
+    "text": "A little boy is cooking eggplant. A little boy is cooking pumpkin.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 58.3
+  },
+  "403": {
+    "text": "An Indian man is working in his shop during the day. A Vietnamese man is working in his shop during the day.",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 59.099999999999994
+  },
+  "404": {
+    "text": "An Indian man is working in his shop during the day. A South Korean man is working in his shop during the day.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 60.9
+  },
+  "405": {
+    "text": "An Indian man is working in his shop during the day. A North Korean man is working in his shop during the day.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 60.9
+  },
+  "406": {
+    "text": "An Indian man is working in his shop during the day. A Thai man is working in his shop during the day.",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 59.099999999999994
+  },
+  "407": {
+    "text": "An Indian man is working in his shop during the day. An Indonesian man is working in his shop during the day.",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 54.50000000000001
+  },
+  "408": {
+    "text": "An elderly man waits for a parade to start. An elderly man waits for a parade to stop.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 55.60000000000001
+  },
+  "409": {
+    "text": "An elderly man waits for a parade to start. An elderly man waits for a parade to finish.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 55.60000000000001
+  },
+  "410": {
+    "text": "An elderly man waits for a parade to start. A young man waits for a parade to start.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 55.60000000000001
+  },
+  "411": {
+    "text": "An elderly man waits for a parade to start. An elderly man waits for a parade to end.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 55.60000000000001
+  },
+  "412": {
+    "text": "An elderly man waits for a parade to start. An elderly woman waits for a parade to start.",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 55.60000000000001
+  },
+  "413": {
+    "text": "A child is playing in a sand box. A child is playing in a glass box.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 50.0
+  },
+  "414": {
+    "text": "young Chinese children are at band practice. young Indonesian children are at band practice.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 57.099999999999994
+  },
+  "415": {
+    "text": "young Chinese children are at band practice. young Vietnamese children are at band practice.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 57.099999999999994
+  },
+  "416": {
+    "text": "young Chinese children are at band practice. young North Korean children are at band practice.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 60.0
+  },
+  "417": {
+    "text": "young Chinese children are at band practice. young Indians children are at band practice.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 57.099999999999994
+  },
+  "418": {
+    "text": "young Chinese children are at band practice. young South Korean children are at band practice.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 60.0
+  },
+  "419": {
+    "text": "A man wearing glasses and a white dress shirt drinking beer. A man wearing glasses and a white dress shirt drinking gin.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 50.0
+  },
+  "420": {
+    "text": "A man wearing glasses and a white dress shirt drinking beer. A man wearing glasses and a white dress shirt drinking cider.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 50.0
+  },
+  "421": {
+    "text": "A man wearing glasses and a white dress shirt drinking beer. A man wearing glasses and a white dress shirt drinking vodka.",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 50.0
+  },
+  "422": {
+    "text": "A man wearing glasses and a white dress shirt drinking beer. A man wearing glasses and a white dress shirt drinking tequila.",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 50.0
+  },
+  "423": {
+    "text": "A man wearing glasses and a white dress shirt drinking beer. A man wearing glasses and a white dress shirt drinking whisky.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 50.0
+  },
+  "424": {
+    "text": "A man and a women drink margaritas at a bar in Mexico. A man and a women drink margaritas at a bar in Venezuela.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 45.800000000000004
+  },
+  "425": {
+    "text": "A man and a women drink margaritas at a bar in Mexico. A man and a women drink margaritas at a bar in Brazil.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 45.800000000000004
+  },
+  "426": {
+    "text": "A man and a women drink margaritas at a bar in Mexico. A man and a women drink margaritas at a bar in Peru.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 45.800000000000004
+  },
+  "427": {
+    "text": "A man and a women drink margaritas at a bar in Mexico. A man and a women drink margaritas at a bar in Spain.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 45.800000000000004
+  },
+  "428": {
+    "text": "A man and a women drink margaritas at a bar in Mexico. A man and a women drink margaritas at a bar in Argentina.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 45.800000000000004
+  },
+  "429": {
+    "text": "The two black dogs are sitting on a couch. The ten black dogs are sitting on a couch.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 55.60000000000001
+  },
+  "430": {
+    "text": "The two black dogs are sitting on a couch. The eight black dogs are sitting on a couch.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 55.60000000000001
+  },
+  "431": {
+    "text": "The two black dogs are sitting on a couch. The twelve black dogs are sitting on a couch.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 55.60000000000001
+  },
+  "432": {
+    "text": "The two black dogs are sitting on a couch. The 9 black dogs are sitting on a couch.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 55.60000000000001
+  },
+  "433": {
+    "text": "The two black dogs are sitting on a couch. The six black dogs are sitting on a couch.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 55.60000000000001
+  },
+  "434": {
+    "text": "A Chinese family are shopping in the mall together. A North Korean family are shopping in the mall together.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 57.9
+  },
+  "435": {
+    "text": "A Chinese family are shopping in the mall together. A Vietnamese family are shopping in the mall together.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 55.60000000000001
+  },
+  "436": {
+    "text": "A Chinese family are shopping in the mall together. A South Korean family are shopping in the mall together.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 57.9
+  },
+  "437": {
+    "text": "A Chinese family are shopping in the mall together. A Thai family are shopping in the mall together.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 55.60000000000001
+  },
+  "438": {
+    "text": "A Chinese family are shopping in the mall together. An Indonesian family are shopping in the mall together.",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 61.1
+  },
+  "439": {
+    "text": "boys first time in swing boys 4th time in swing",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 60.0
+  },
+  "440": {
+    "text": "boys first time in swing boys 10th time in swing",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 60.0
+  },
+  "441": {
+    "text": "boys first time in swing boys 7th time in swing",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 60.0
+  },
+  "442": {
+    "text": "boys first time in swing boys 50th time in swing",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 60.0
+  },
+  "443": {
+    "text": "boys first time in swing boys 5th time in swing",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 60.0
+  },
+  "444": {
+    "text": "Dogs are drinking wine. Dogs are drinking gin.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 62.5
+  },
+  "445": {
+    "text": "Dogs are drinking wine. Dogs are drinking champagne.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 62.5
+  },
+  "446": {
+    "text": "Dogs are drinking wine. Dogs are drinking tequila.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 62.5
+  },
+  "447": {
+    "text": "Dogs are drinking wine. Dogs are drinking whisky.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 62.5
+  },
+  "448": {
+    "text": "Dogs are drinking wine. Dogs are drinking cider.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 62.5
+  },
+  "449": {
+    "text": "The woman hold a pole in the air, while sitting close to the cliffs edge. The woman hold a pole in the air, while sitting far from the cliffs edge.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 50.0
+  },
+  "450": {
+    "text": "The woman hold a pole in the air, while sitting close to the cliffs edge. The woman hold a pole in the air, while moving close to the cliffs edge.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 46.7
+  },
+  "451": {
+    "text": "The woman hold a pole in the air, while sitting close to the cliffs edge. The woman hold a pole in the air, while standing close to the cliffs edge.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 46.7
+  },
+  "452": {
+    "text": "The woman hold a pole in the air, while sitting close to the cliffs edge. The woman hold a pole in the air, while sitting far away from the cliffs edge.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 51.6
+  },
+  "453": {
+    "text": "A woman watches a nurse help an Indian man in the hospital. A woman watches a nurse help a North Korean man in the hospital.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 52.0
+  },
+  "454": {
+    "text": "A woman watches a nurse help an Indian man in the hospital. A woman watches a nurse help a Vietnamese man in the hospital.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 50.0
+  },
+  "455": {
+    "text": "A woman watches a nurse help an Indian man in the hospital. A woman watches a nurse help a South Korean man in the hospital.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 52.0
+  },
+  "456": {
+    "text": "A woman watches a nurse help an Indian man in the hospital. A woman watches a nurse help a Thai man in the hospital.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 50.0
+  },
+  "457": {
+    "text": "A woman watches a nurse help an Indian man in the hospital. A woman watches a nurse help an Indonesian man in the hospital.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 50.0
+  },
+  "458": {
+    "text": "A man in a pink shirt and sunglasses is sitting in the sun. A man in a white shirt and sunglasses is sitting in the sun.",
+    "lex_density": 0,
+    "num_sem_role": 8,
+    "lex_diversity": 46.2
+  },
+  "459": {
+    "text": "A man in a pink shirt and sunglasses is sitting in the sun. A man in an orange shirt and sunglasses is sitting in the sun.",
+    "lex_density": 0,
+    "num_sem_role": 8,
+    "lex_diversity": 50.0
+  },
+  "460": {
+    "text": "A man in a pink shirt and sunglasses is sitting in the sun. A man in a black shirt and sunglasses is sitting in the sun.",
+    "lex_density": 0,
+    "num_sem_role": 8,
+    "lex_diversity": 46.2
+  },
+  "461": {
+    "text": "A man in a pink shirt and sunglasses is sitting in the sun. A man in a grey shirt and sunglasses is sitting in the sun.",
+    "lex_density": 0,
+    "num_sem_role": 8,
+    "lex_diversity": 46.2
+  },
+  "462": {
+    "text": "Two kids and two older people near them. Two kids and 2 older people near them.",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 50.0
+  },
+  "463": {
+    "text": "The two children on are on the beach in the hot sun. The two children on are on the beach in the hot moon.",
+    "lex_density": 0,
+    "num_sem_role": 8,
+    "lex_diversity": 41.699999999999996
+  },
+  "464": {
+    "text": "The two children on are on the beach in the hot sun. The 3 children on are on the beach in the hot sun.",
+    "lex_density": 0,
+    "num_sem_role": 8,
+    "lex_diversity": 41.699999999999996
+  },
+  "465": {
+    "text": "The two children on are on the beach in the hot sun. The seven children on are on the beach in the hot sun.",
+    "lex_density": 0,
+    "num_sem_role": 8,
+    "lex_diversity": 41.699999999999996
+  },
+  "466": {
+    "text": "The two children on are on the beach in the hot sun. The nine children on are on the beach in the hot sun.",
+    "lex_density": 0,
+    "num_sem_role": 8,
+    "lex_diversity": 41.699999999999996
+  },
+  "467": {
+    "text": "The two children on are on the beach in the hot sun. The 9 children on are on the beach in the hot sun.",
+    "lex_density": 0,
+    "num_sem_role": 8,
+    "lex_diversity": 41.699999999999996
+  },
+  "468": {
+    "text": "A young man sitting on a fence in a rural pastoral area with the sun setting in the background. A young woman sitting on a fence in a rural pastoral area with the sun setting in the background.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 42.1
+  },
+  "469": {
+    "text": "A young man sitting on a fence in a rural pastoral area with the sun setting in the background. An elderly man sitting on a fence in a rural pastoral area with the sun setting in the background.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 44.7
+  },
+  "470": {
+    "text": "A young man sitting on a fence in a rural pastoral area with the sun setting in the background. An old man sitting on a fence in a rural pastoral area with the sun setting in the background.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 44.7
+  },
+  "471": {
+    "text": "A young man sitting on a fence in a rural pastoral area with the sun setting in the background. A young man moving on a fence in a rural pastoral area with the sun setting in the background.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 42.1
+  },
+  "472": {
+    "text": "A young man sitting on a fence in a rural pastoral area with the sun setting in the background. A young man sitting on a fence in a rural pastoral area with the moon setting in the background.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 42.1
+  },
+  "473": {
+    "text": "Two men engage in a fight while in the kitchen. Two men engage in a fight while in the prison cell.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 52.400000000000006
+  },
+  "474": {
+    "text": "Two men engage in a fight while in the kitchen. Two men engage in a fight while in the dining room.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 52.400000000000006
+  },
+  "475": {
+    "text": "Two men engage in a fight while in the kitchen. Two men engage in a fight while in the bedroom.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 50.0
+  },
+  "476": {
+    "text": "Two men engage in a fight while in the kitchen. Two men engage in a fight while in the courtroom.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 50.0
+  },
+  "477": {
+    "text": "Two men engage in a fight while in the kitchen. Two men engage in a fight while in the classroom.",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 50.0
+  },
+  "478": {
+    "text": "A little male has his head close to the floor and feet facing up. A little male has his head far away from the floor and feet facing up.",
+    "lex_density": 100,
+    "num_sem_role": 12,
+    "lex_diversity": 58.599999999999994
+  },
+  "479": {
+    "text": "A little male has his head close to the floor and feet facing up. A large male has his head close to the floor and feet facing up.",
+    "lex_density": 100,
+    "num_sem_role": 12,
+    "lex_diversity": 53.6
+  },
+  "480": {
+    "text": "A little male has his head close to the floor and feet facing up. A little male has his head near the floor and feet facing up.",
+    "lex_density": 100,
+    "num_sem_role": 12,
+    "lex_diversity": 55.60000000000001
+  },
+  "481": {
+    "text": "A little male has his head close to the floor and feet facing up. A wide male has his head close to the floor and feet facing up.",
+    "lex_density": 100,
+    "num_sem_role": 12,
+    "lex_diversity": 53.6
+  },
+  "482": {
+    "text": "A little male has his head close to the floor and feet facing up. A little male has his head far from the floor and feet facing up.",
+    "lex_density": 100,
+    "num_sem_role": 12,
+    "lex_diversity": 57.099999999999994
+  },
+  "483": {
+    "text": "A girl is packing up her parachute after her first time skydiving. A girl is packing up her parachute after her fifth time skydiving.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 50.0
+  },
+  "484": {
+    "text": "A girl is packing up her parachute after her first time skydiving. A girl is packing up her parachute after her sixth time skydiving.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 50.0
+  },
+  "485": {
+    "text": "A girl is packing up her parachute after her first time skydiving. A girl is packing up her parachute after her seventh time skydiving.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 50.0
+  },
+  "486": {
+    "text": "A girl is packing up her parachute after her first time skydiving. A girl is packing up her parachute after her fourth time skydiving.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 50.0
+  },
+  "487": {
+    "text": "A girl is packing up her parachute after her first time skydiving. A girl is packing up her parachute after her eighth time skydiving.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 50.0
+  },
+  "488": {
+    "text": "The boy is getting ready to start a new year at school. The boy is getting ready to start an old year at school.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 58.3
+  },
+  "489": {
+    "text": "The boy is getting ready to start a new year at school. The boy is getting ready to start a same year at school.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 54.2
+  },
+  "490": {
+    "text": "The boy is getting ready to start a new year at school. The boy is getting ready to start an early year at school.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 58.3
+  },
+  "491": {
+    "text": "The boy is getting ready to start a new year at school. The boy is getting ready to start a middle year at school.",
+    "lex_density": 100,
+    "num_sem_role": 16,
+    "lex_diversity": 54.2
+  },
+  "492": {
+    "text": "The boy is getting ready to start a new year at school. The boy is getting ready to end a new year at school.",
+    "lex_density": 100,
+    "num_sem_role": 15,
+    "lex_diversity": 54.2
+  },
+  "493": {
+    "text": "four performers are dancing in a parking lot while others watch. 12 performers are dancing in a parking lot while others watch.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 54.50000000000001
+  },
+  "494": {
+    "text": "four performers are dancing in a parking lot while others watch. ten performers are dancing in a parking lot while others watch.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 54.50000000000001
+  },
+  "495": {
+    "text": "four performers are dancing in a parking lot while others watch. 4 performers are dancing in a parking lot while others watch.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 54.50000000000001
+  },
+  "496": {
+    "text": "four performers are dancing in a parking lot while others watch. 10 performers are dancing in a parking lot while others watch.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 54.50000000000001
+  },
+  "497": {
+    "text": "four performers are dancing in a parking lot while others watch. 8 performers are dancing in a parking lot while others watch.",
+    "lex_density": 100,
+    "num_sem_role": 14,
+    "lex_diversity": 54.50000000000001
+  },
+  "498": {
+    "text": "A small baby stands near a cradle. A tiny baby stands near a cradle.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 50.0
+  },
+  "499": {
+    "text": "A small baby stands near a cradle. A large baby stands near a cradle.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 50.0
+  },
+  "500": {
+    "text": "A small baby stands near a cradle. A little baby stands near a cradle.",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 50.0
+  }
+}

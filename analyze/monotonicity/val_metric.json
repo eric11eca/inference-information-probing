@@ -1,0 +1,2756 @@
+{
+  "0": {
+    "text": "Not many people love lions as pets",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "1": {
+    "text": "Not many farmers love lions as pets",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "2": {
+    "text": "Not many people view squirrels as food",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "3": {
+    "text": "Not many farmers view squirrels as food",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "4": {
+    "text": "Not many people want foxes as friends",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "5": {
+    "text": "Not many farmers want foxes as friends",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "6": {
+    "text": "Not many people eat turtle as dinners",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "7": {
+    "text": "Not many farmers eat turtle as dinners",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "8": {
+    "text": "Not many people use horses as weapons",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "9": {
+    "text": "Not many farmers use horses as weapons",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "10": {
+    "text": "Many people love dogs as pets",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "11": {
+    "text": "Many kids love dogs as pets",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "12": {
+    "text": "Many people view chickens as food",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "13": {
+    "text": "Many kids view chickens as food",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "14": {
+    "text": "Many people want cows as friends",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "15": {
+    "text": "Many kids want cows as friends",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "16": {
+    "text": "Many people eat fish as dinners",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "17": {
+    "text": "Many kids eat fish as dinners",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "18": {
+    "text": "Many people use horses for transportation",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "19": {
+    "text": "Many kids use horses for transportation",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "20": {
+    "text": "A few boys chased a girl",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 83.3
+  },
+  "21": {
+    "text": "A few policemen chased a girl",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 83.3
+  },
+  "22": {
+    "text": "A few teachers chased a girl",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 83.3
+  },
+  "23": {
+    "text": "A few trainers chased a girl",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 83.3
+  },
+  "24": {
+    "text": "A few mothers chased a girl",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 83.3
+  },
+  "25": {
+    "text": "A few students learned some sports",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "26": {
+    "text": "A few students learned some instruments",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "27": {
+    "text": "A few students learned some poetries",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "28": {
+    "text": "A few students learned some experiments",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "29": {
+    "text": "A few students learned some languages",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "30": {
+    "text": "Not every teenage boy likes competitive sports.",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "31": {
+    "text": "Not every teenage boy likes loud concerts.",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "32": {
+    "text": "Not every teenage boy likes drinking parties.",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "33": {
+    "text": "Not every teenage boy likes hard exams.",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "34": {
+    "text": "Not every teenage boy likes long hikings.",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "35": {
+    "text": "Not every graduate student studies Computational Semantic.",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "36": {
+    "text": "Not every graduate student studies Software Development.",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 100.0
+  },
+  "37": {
+    "text": "Not every graduate student studies Cognitive Neroscience.",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 100.0
+  },
+  "38": {
+    "text": "Not every graduate student studies Abstract Algebra.",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 100.0
+  },
+  "39": {
+    "text": "Not every graduate student studies advanced engineering.",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 100.0
+  },
+  "40": {
+    "text": "Most dogs who bark loudly, do not like cats.",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "41": {
+    "text": "Most students who sleep endlessly, do not attend classes.",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "42": {
+    "text": "Most horses who run fast, do not eat apples.",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "43": {
+    "text": "Most athelets who train hard, do not need vacations.",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "44": {
+    "text": "Most managers who work smartly, do not make mistakes.",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "45": {
+    "text": "Most {subj} who {verbp} {adv}, do not {verbs} {obj}.",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "46": {
+    "text": "Most {subj} who {verbp} {adv}, do not {verbs} {obj}.",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "47": {
+    "text": "Most {subj} who {verbp} {adv}, do not {verbs} {obj}.",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "48": {
+    "text": "Most {subj} who {verbp} {adv}, do not {verbs} {obj}.",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "49": {
+    "text": "Most {subj} who {verbp} {adv}, do not {verbs} {obj}.",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "50": {
+    "text": "The dog who barks loudly, does not like any cats",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "51": {
+    "text": "The student who sleeps endlessly, does not attend any classes",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "52": {
+    "text": "The horse who runs fast, does not eat any apples",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "53": {
+    "text": "The athelet who trains hard, does not need any vacations",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "54": {
+    "text": "The manager who works smartly, does not make any mistakes",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "55": {
+    "text": "The {subj} who {verbp} {adv}, does not {verbs} any {obj}",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "56": {
+    "text": "The {subj} who {verbp} {adv}, does not {verbs} any {obj}",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "57": {
+    "text": "The {subj} who {verbp} {adv}, does not {verbs} any {obj}",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "58": {
+    "text": "The {subj} who {verbp} {adv}, does not {verbs} any {obj}",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "59": {
+    "text": "The {subj} who {verbp} {adv}, does not {verbs} any {obj}",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "60": {
+    "text": "Three out of five dentists recommend that their patients brush their teeth at least four times a day",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 94.39999999999999
+  },
+  "61": {
+    "text": "Two out of five coaches recommend that their trainers lift heavy weights at least three times a week",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 100.0
+  },
+  "62": {
+    "text": "Seven out of ten teachers recommend that their students read their notes at least seven times a week",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 88.9
+  },
+  "63": {
+    "text": "four out of five scientists recommend that young adults drink their water at least fifteen times a day",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 100.0
+  },
+  "64": {
+    "text": "five out of nine doctors recommend that their patients rest their mind at least two times a day",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 94.39999999999999
+  },
+  "65": {
+    "text": "At least seven dogs died yesterday in Morocco",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "66": {
+    "text": "At least seven cats died yesterday in Morocco",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "67": {
+    "text": "At least seven cows died yesterday in Morocco",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "68": {
+    "text": "At least seven horses died yesterday in Morocco",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "69": {
+    "text": "At least seven squirrels died yesterday in Morocco",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "70": {
+    "text": "At least four fish died yesterday in Morocco",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "71": {
+    "text": "At least four fish died yesterday in England",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "72": {
+    "text": "At least four fish died yesterday in Spain",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "73": {
+    "text": "At least four fish died yesterday in Italy",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "74": {
+    "text": "At least four fish died yesterday in Korea",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "75": {
+    "text": "At most 23 dogs are nice",
+    "lex_density": 0,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "76": {
+    "text": "At most 23 dogs are interesting",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "77": {
+    "text": "At most 23 dogs are cute",
+    "lex_density": 0,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "78": {
+    "text": "At most 23 dogs are soft",
+    "lex_density": 0,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "79": {
+    "text": "At most 23 dogs are strong",
+    "lex_density": 0,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "80": {
+    "text": "At most 77 dogs are hungry",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "81": {
+    "text": "At most 77 cats are hungry",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "82": {
+    "text": "At most 77 cows are hungry",
+    "lex_density": 0,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "83": {
+    "text": "At most 77 horses are hungry",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "84": {
+    "text": "At most 77 squirrels are hungry",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "85": {
+    "text": "At least 5 people studied",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "86": {
+    "text": "At least 5 people jumped",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "87": {
+    "text": "At least 5 people saw",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "88": {
+    "text": "At least 5 people walked",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "89": {
+    "text": "At least 5 people danced",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "90": {
+    "text": "At least 9 dogs ran",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "91": {
+    "text": "At least 9 cats ran",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "92": {
+    "text": "At least 9 cows ran",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "93": {
+    "text": "At least 9 horses ran",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "94": {
+    "text": "At least 9 squirrels ran",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "95": {
+    "text": "Less than 5 people studied",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "96": {
+    "text": "Less than 5 people jumped",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "97": {
+    "text": "Less than 5 people saw",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "98": {
+    "text": "Less than 5 people walked",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "99": {
+    "text": "Less than 5 people danced",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "100": {
+    "text": "Less than 9 dogs ran",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "101": {
+    "text": "Less than 9 cats ran",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "102": {
+    "text": "Less than 9 cows ran",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "103": {
+    "text": "Less than 9 horses ran",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "104": {
+    "text": "Less than 9 squirrels ran",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "105": {
+    "text": "More than 15 dogs are nice",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "106": {
+    "text": "More than 15 dogs are interesting",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "107": {
+    "text": "More than 15 dogs are cute",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "108": {
+    "text": "More than 15 dogs are soft",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "109": {
+    "text": "More than 15 dogs are strong",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "110": {
+    "text": "More than 36 dogs are hungry",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "111": {
+    "text": "More than 36 cats are hungry",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "112": {
+    "text": "More than 36 cows are hungry",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "113": {
+    "text": "More than 36 horses are hungry",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "114": {
+    "text": "More than 36 squirrels are hungry",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "115": {
+    "text": "Exactly 10 dogs are nice",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "116": {
+    "text": "Exactly 10 dogs are interesting",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "117": {
+    "text": "Exactly 10 dogs are cute",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "118": {
+    "text": "Exactly 10 dogs are soft",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "119": {
+    "text": "Exactly 10 dogs are strong",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "120": {
+    "text": "Exactly 5 dogs are sleeping",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "121": {
+    "text": "Exactly 5 cats are sleeping",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "122": {
+    "text": "Exactly 5 cows are sleeping",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "123": {
+    "text": "Exactly 5 horses are sleeping",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "124": {
+    "text": "Exactly 5 squirrels are sleeping",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "125": {
+    "text": "Some but not all students cheated in this class",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "126": {
+    "text": "Some but not all students cheated in this field",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "127": {
+    "text": "Some but not all students cheated in this sports",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "128": {
+    "text": "Some but not all students cheated in this competition",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "129": {
+    "text": "Some but not all students cheated in this club",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "130": {
+    "text": "Some but not all students studied in this class",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "131": {
+    "text": "Some but not all students slept in this class",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "132": {
+    "text": "Some but not all students failed in this class",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "133": {
+    "text": "Some but not all students succeeded in this class",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "134": {
+    "text": "Some but not all students learned in this class",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "135": {
+    "text": "More than three students studied in this class",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "136": {
+    "text": "More than three students slept in this class",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "137": {
+    "text": "More than three students failed in this class",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "138": {
+    "text": "More than three students succeeded in this class",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "139": {
+    "text": "More than three students learned in this class",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "140": {
+    "text": "More than seven students cheated in this class",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "141": {
+    "text": "More than seven students cheated in this field",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "142": {
+    "text": "More than seven students cheated in this sports",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "143": {
+    "text": "More than seven students cheated in this competition",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "144": {
+    "text": "More than seven students cheated in this club",
+    "lex_density": 0,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "145": {
+    "text": "Less than three students studied in this class",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "146": {
+    "text": "Less than three students slept in this class",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "147": {
+    "text": "Less than three students failed in this class",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "148": {
+    "text": "Less than three students succeeded in this class",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "149": {
+    "text": "Less than three students learned in this class",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "150": {
+    "text": "Less than seven students got awards in the class",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "151": {
+    "text": "Less than seven students got awards in the field",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "152": {
+    "text": "Less than seven students got awards in the conference",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "153": {
+    "text": "Less than seven students got awards in the competition",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "154": {
+    "text": "Less than seven students got awards in the club",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "155": {
+    "text": "More dogs than cats sit",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "156": {
+    "text": "More cats than cats sit",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 80.0
+  },
+  "157": {
+    "text": "More cows than cats sit",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "158": {
+    "text": "More horses than cats sit",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "159": {
+    "text": "More squirrels than cats sit",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "160": {
+    "text": "More lions than cows ate",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "161": {
+    "text": "More lions than cows slept",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "162": {
+    "text": "More lions than cows drank",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "163": {
+    "text": "More lions than cows ran",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "164": {
+    "text": "More lions than cows moved",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "165": {
+    "text": "Fewer dogs than cats sit",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "166": {
+    "text": "Fewer cats than cats sit",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 80.0
+  },
+  "167": {
+    "text": "Fewer cows than cats sit",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "168": {
+    "text": "Fewer horses than cats sit",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "169": {
+    "text": "Fewer squirrels than cats sit",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "170": {
+    "text": "Fewer lions than cows ate",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "171": {
+    "text": "Fewer lions than cows slept",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "172": {
+    "text": "Fewer lions than cows drank",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "173": {
+    "text": "Fewer lions than cows ran",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "174": {
+    "text": "Fewer lions than cows moved",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "175": {
+    "text": "Every student's favorite class was French",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "176": {
+    "text": "Every student's best class was Psychology",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "177": {
+    "text": "Every parents' favorite thing was kids",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "178": {
+    "text": "Every dog's favorite food was meat",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "179": {
+    "text": "Every animals's essential resource was water",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "180": {
+    "text": "Every boy's favorite sport was baseball",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "181": {
+    "text": "Every children's favorite activity was swimming",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "182": {
+    "text": "Every student's dream job was engineering",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "183": {
+    "text": "Every farmer's worst nightmare was storms",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "184": {
+    "text": "Every person's best memory was summer",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "185": {
+    "text": "No students liked any class in Chemistry",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "186": {
+    "text": "No customers liked any trash in resturants",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "187": {
+    "text": "No players disliked any running in baseball",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "188": {
+    "text": "No singers liked any fighting in concerts",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "189": {
+    "text": "No coaches liked any lazyness in practice",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "190": {
+    "text": "No farmers hated any cities in Kansas",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "191": {
+    "text": "No doctors watched any movies in cinemas",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "192": {
+    "text": "No programmers missed any bugs in softwares",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "193": {
+    "text": "No visitors touched any paintings in museums",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "194": {
+    "text": "No hunters hunted any aligators in Everglades",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "195": {
+    "text": "All but five dogs died",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "196": {
+    "text": "All but five cats died",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "197": {
+    "text": "All but five cows died",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "198": {
+    "text": "All but five horses died",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "199": {
+    "text": "All but five squirrels died",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "200": {
+    "text": "All but seven dogs ate",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "201": {
+    "text": "All but seven dogs slept",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "202": {
+    "text": "All but seven dogs drank",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "203": {
+    "text": "All but seven dogs jumped",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "204": {
+    "text": "All but seven dogs ran",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "205": {
+    "text": "If every cat runs, some dogs run also",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 100.0
+  },
+  "206": {
+    "text": "If every teacher compete, some students compete also",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 87.5
+  },
+  "207": {
+    "text": "If every parent learns, some kids learn also",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 100.0
+  },
+  "208": {
+    "text": "If every fish swims, some ducks siwm also",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "209": {
+    "text": "If every tree grows, some flowers grow also",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 100.0
+  },
+  "210": {
+    "text": "If every container opens, some boxes open also",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 100.0
+  },
+  "211": {
+    "text": "If every phone rings, some speaker ring also",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 100.0
+  },
+  "212": {
+    "text": "If every car moves, some bikes move also",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 100.0
+  },
+  "213": {
+    "text": "If every building stands, some bridges stand also",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 100.0
+  },
+  "214": {
+    "text": "If every players wins, some rookies win also",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 100.0
+  },
+  "215": {
+    "text": "If some dog runs, no cat sits",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "216": {
+    "text": "If some students studies, no exam fails",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "217": {
+    "text": "If some computer crashes, no data stays",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "218": {
+    "text": "If some signals disapears, no call comes",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "219": {
+    "text": "If some tree grows, no animal rests",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "220": {
+    "text": "If some assitants stuck, no experiment completes",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "221": {
+    "text": "If some cells degenerate, no muscle heals",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "222": {
+    "text": "If some phone ring, no battery charges",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 100.0
+  },
+  "223": {
+    "text": "If some car stop, no gas leaks",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "224": {
+    "text": "If some boats float, no water moves",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "225": {
+    "text": "John is dancing without clothes",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "226": {
+    "text": "John is writing without papers",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "227": {
+    "text": "John is eating without forks",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "228": {
+    "text": "John is sleeping without pillows",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "229": {
+    "text": "John is flying without wings",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "230": {
+    "text": "John is running without shoes",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "231": {
+    "text": "John is swimming without hats",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "232": {
+    "text": "John is singing without lyrics",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "233": {
+    "text": "John is filming without mics",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "234": {
+    "text": "John is jumping without hesitation",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "235": {
+    "text": "Ursula refused to sing or dance",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "236": {
+    "text": "Ursula declined to sing or dance",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "237": {
+    "text": "Ursula rejected to sing or dance",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "238": {
+    "text": "Ursula repudiate to sing or dance",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "239": {
+    "text": "Ursula rebuffed to sing or dance",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "240": {
+    "text": "Ursula refused to eat or dance",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 100.0
+  },
+  "241": {
+    "text": "Ursula refused to sleep or dance",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "242": {
+    "text": "Ursula refused to drink or dance",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 100.0
+  },
+  "243": {
+    "text": "Ursula refused to jump or dance",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "244": {
+    "text": "Ursula refused to run or dance",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "245": {
+    "text": "A dogs ate 2 rotten biscuits",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "246": {
+    "text": "A cats ate 2 rotten biscuits",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "247": {
+    "text": "A cows ate 2 rotten biscuits",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "248": {
+    "text": "A horses ate 2 rotten biscuits",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "249": {
+    "text": "A squirrels ate 2 rotten biscuits",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "250": {
+    "text": "A cat took 5 delicious cake",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "251": {
+    "text": "A cat took 5 sweet barries",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "252": {
+    "text": "A cat took 5 red apples",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "253": {
+    "text": "A cat took 5 small fish",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "254": {
+    "text": "A cat took 5 yellow balls",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "255": {
+    "text": "Three dogs love four dogs",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 80.0
+  },
+  "256": {
+    "text": "Three cats love four cats",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 80.0
+  },
+  "257": {
+    "text": "Three cows love four cows",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 80.0
+  },
+  "258": {
+    "text": "Three horses love four horses",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 80.0
+  },
+  "259": {
+    "text": "Three squirrels love four squirrels",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 80.0
+  },
+  "260": {
+    "text": "Five dogs saw Seven dogs",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 80.0
+  },
+  "261": {
+    "text": "Five cats saw Seven cats",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 80.0
+  },
+  "262": {
+    "text": "Five cows saw Seven cows",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 80.0
+  },
+  "263": {
+    "text": "Five horses saw Seven horses",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 80.0
+  },
+  "264": {
+    "text": "Five squirrels saw Seven squirrels",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 80.0
+  },
+  "265": {
+    "text": "My parents said I could have three candies",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "266": {
+    "text": "My friends said I could have three candies",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "267": {
+    "text": "My parents said I could watch two movies",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "268": {
+    "text": "My friends said I could watch two movies",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "269": {
+    "text": "My parents said they could read four chapters",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "270": {
+    "text": "My friends said they could read four chapters",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "271": {
+    "text": "My parents said I could sleep five hours",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "272": {
+    "text": "My friends said I could sleep five hours",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "273": {
+    "text": "My parents said they could run six miles",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "274": {
+    "text": "My friends said they could run six miles",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "275": {
+    "text": "No dentist who recommends that their patients brush their teeth at least four times a day gave five patients a toothbrush",
+    "lex_density": 100,
+    "num_sem_role": 12,
+    "lex_diversity": 85.7
+  },
+  "276": {
+    "text": "No doctor who asks that their patients take pills at least three times a week gave six patients some pills",
+    "lex_density": 100,
+    "num_sem_role": 12,
+    "lex_diversity": 90.0
+  },
+  "277": {
+    "text": "No teacher who asks their students to solve at least two problems a day assigned seven students a problem",
+    "lex_density": 100,
+    "num_sem_role": 12,
+    "lex_diversity": 89.5
+  },
+  "278": {
+    "text": "No student who studys at least six hours a day missed two exams",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 100.0
+  },
+  "279": {
+    "text": "No person who eats at least four meals a day took seven hours of exercise",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 100.0
+  },
+  "280": {
+    "text": "Every doctor who told her patients to take three pills a day was afraid that taking four or more would kill them",
+    "lex_density": 100,
+    "num_sem_role": 18,
+    "lex_diversity": 100.0
+  },
+  "281": {
+    "text": "Every teacher who told her students to solve ten problems an hour was afraid that solving eleven or more would harm them",
+    "lex_density": 100,
+    "num_sem_role": 19,
+    "lex_diversity": 100.0
+  },
+  "282": {
+    "text": "Every dentist who told her patients to eat five candies a day was afraid that eating six or more would harm their teeth",
+    "lex_density": 100,
+    "num_sem_role": 21,
+    "lex_diversity": 100.0
+  },
+  "283": {
+    "text": "Every child who told her parents to buy six cakes a day was afraid that buying seven or more would cost too much",
+    "lex_density": 100,
+    "num_sem_role": 19,
+    "lex_diversity": 100.0
+  },
+  "284": {
+    "text": "Every student who told her parents to buy two books a week was afraid that buying three or more would use up their money",
+    "lex_density": 100,
+    "num_sem_role": 20,
+    "lex_diversity": 100.0
+  },
+  "285": {
+    "text": "If you are addicted to cigarettes, you can smoke two a day",
+    "lex_density": 0,
+    "num_sem_role": 12,
+    "lex_diversity": 91.7
+  },
+  "286": {
+    "text": "If you have enough money, you can buy four books a day",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 91.7
+  },
+  "287": {
+    "text": "If you are addicted to video games, you can play three hours a day",
+    "lex_density": 100,
+    "num_sem_role": 12,
+    "lex_diversity": 92.9
+  },
+  "288": {
+    "text": "If you study well, you can borrow six books a week",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 90.9
+  },
+  "289": {
+    "text": "If you listen carefully, you can hear two voices a minute",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 90.9
+  },
+  "290": {
+    "text": "Even if you are addicted to cigarettes, you can smoke two a day",
+    "lex_density": 0,
+    "num_sem_role": 12,
+    "lex_diversity": 92.30000000000001
+  },
+  "291": {
+    "text": "Even if you have enough money, you can buy two books a day",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 92.30000000000001
+  },
+  "292": {
+    "text": "Even if you are addicted to video games, you can play two hours a day",
+    "lex_density": 100,
+    "num_sem_role": 12,
+    "lex_diversity": 93.30000000000001
+  },
+  "293": {
+    "text": "Even if you study well, you can borrow two books a week",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 91.7
+  },
+  "294": {
+    "text": "Even if you listen carefully, you can hear two voices a minute",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 91.7
+  },
+  "295": {
+    "text": "Every person who smokes two cigarettes in one hour runs a risk of cancer",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "296": {
+    "text": "Every person who buys four books in one day runs a risk of bankrupt",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "297": {
+    "text": "Every student who studys six problems in an hour does well on exams",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "298": {
+    "text": "Every student who borrows six books in one week likes reading",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 100.0
+  },
+  "299": {
+    "text": "Every child who eats five candies in one day tends to get a toothache",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 100.0
+  },
+  "300": {
+    "text": "A dog who ate two rotten biscuits was sick for three days",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "301": {
+    "text": "A person who ate two hamburgers went exercise for three hours",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "302": {
+    "text": "A student who solved six problems took a nap for thirty minutes",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 91.7
+  },
+  "303": {
+    "text": "A child who ate five candies got a toothache for seven days",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 91.7
+  },
+  "304": {
+    "text": "A student who borrowed four books kept reading books for two hours",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 91.7
+  },
+  "305": {
+    "text": "Any dog in Michigan would prefer to live in Indiana",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 90.0
+  },
+  "306": {
+    "text": "Any student in college would like to study in high school",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 90.9
+  },
+  "307": {
+    "text": "Any cat in Indiana would hope to live in Michigan",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 90.0
+  },
+  "308": {
+    "text": "Any person in college would like to stay in campus",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 90.0
+  },
+  "309": {
+    "text": "Any bird in Indiana would like to fly to Florida",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 90.0
+  },
+  "310": {
+    "text": "All the cats, except for at most two, eat chocolate",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "311": {
+    "text": "All the dogs, except for at most three, eat biscuits",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "312": {
+    "text": "All the birds, except for at most four, eat corns",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "313": {
+    "text": "All the rabbits, except for at most five, eat carrots",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "314": {
+    "text": "All the monkeys, except for at most six, eat bananas",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "315": {
+    "text": "All the elephants, except for at most twenty, are jumping",
+    "lex_density": 0,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "316": {
+    "text": "All the cheetahs, except for at most thirty, chase rabbits",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 100.0
+  },
+  "317": {
+    "text": "All the raccoons, except for at most forty, eat rats",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "318": {
+    "text": "All the giraffes, except for at most fifty, are sleeping",
+    "lex_density": 0,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "319": {
+    "text": "All the cows, except for at most sixty, are breeding",
+    "lex_density": 0,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "320": {
+    "text": "All the cats except for two, love to run",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "321": {
+    "text": "All the dogs except for three, love to walk",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "322": {
+    "text": "All the birds except for four, love to fly",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "323": {
+    "text": "All the rabbits except for five, love to jump",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "324": {
+    "text": "All the monkeys except for six, love to climb",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "325": {
+    "text": "All the elephants except for twenty, love to jump",
+    "lex_density": 100,
+    "num_sem_role": 1,
+    "lex_diversity": 100.0
+  },
+  "326": {
+    "text": "All the cheetahs except for thirty, love to chase rabbits",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "327": {
+    "text": "All the raccoons except for forty, love to eat",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "328": {
+    "text": "All the giraffes except for fifty, love to sleep",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "329": {
+    "text": "All the cows except for sixty, love to breed",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "330": {
+    "text": "All students except engineers must take a class in Organic Chemistry",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "331": {
+    "text": "All students except scientists must take a course in Mechanical Engineering",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "332": {
+    "text": "All dogs except Golden Retrievers must eat some food in their homes",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 100.0
+  },
+  "333": {
+    "text": "All birds except sparrows must fly to Florida in full speed",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 100.0
+  },
+  "334": {
+    "text": "All people except lawyers must take a class in Computational Mathematics",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "335": {
+    "text": "All monkeys except Mandrills must eat a banana in the zoo",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 100.0
+  },
+  "336": {
+    "text": "All cats except Ragdolls must have a dinner in the kitchen",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 100.0
+  },
+  "337": {
+    "text": "All athletes except swimmers must take some exercise on the football field",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 100.0
+  },
+  "338": {
+    "text": "All people except teachers must take a class in Education",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 100.0
+  },
+  "339": {
+    "text": "Some person in the White House doesn't know if any dog in Ohio ate bananas yesterday",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 94.1
+  },
+  "340": {
+    "text": "Some person in the college don't know if any cat in Indiana slept yesterday",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 93.30000000000001
+  },
+  "341": {
+    "text": "Some cats in the hospital don't know if any person in Florida drank water",
+    "lex_density": 100,
+    "num_sem_role": 5,
+    "lex_diversity": 93.30000000000001
+  },
+  "342": {
+    "text": "Some ducks in the college don't know if any student in Indiana have had dinner today",
+    "lex_density": 0,
+    "num_sem_role": 10,
+    "lex_diversity": 94.1
+  },
+  "343": {
+    "text": "Some dogs in the park don't know if any person in Michigan did exercise yesterday",
+    "lex_density": 0,
+    "num_sem_role": 9,
+    "lex_diversity": 93.8
+  },
+  "344": {
+    "text": "Some person in the school don't know if any student in college read books yesterday",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 93.8
+  },
+  "345": {
+    "text": "Some monkeys in the zoo don't know if any dog in Indiana ate bananas yesterday",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 93.8
+  },
+  "346": {
+    "text": "Some teachers in the college don't know if any student at home finished homework yesterday",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "347": {
+    "text": "Some scientists in the lab don't know if any cat in Michigan hurt people yesterday",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 93.8
+  },
+  "348": {
+    "text": "Some athletes in the Olympic Games don't know if any person in Tokyo ate sandwiches yesterday",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 94.1
+  },
+  "349": {
+    "text": "Every dog who likes most cats was chased by at least two of them",
+    "lex_density": 0,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "350": {
+    "text": "Every cat who likes most dogs was chased by at least three of them",
+    "lex_density": 0,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "351": {
+    "text": "Every duck who likes most dogs was chased by at least four of them",
+    "lex_density": 0,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "352": {
+    "text": "Every goose who loves most ducks was chased by at least five of them",
+    "lex_density": 0,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "353": {
+    "text": "Every bird who likes most geese was chased by at least six of them",
+    "lex_density": 0,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "354": {
+    "text": "Every raccoon who likes most fish was carried by at least twenty of them",
+    "lex_density": 0,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "355": {
+    "text": "Every monkey who likes most rabbits was helped by at least thirty of them",
+    "lex_density": 0,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "356": {
+    "text": "Every rabbit who likes most dogs was loved by at least forty of them",
+    "lex_density": 0,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "357": {
+    "text": "Every dog who likes most alligators was beaten by at least fifty of them",
+    "lex_density": 0,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "358": {
+    "text": "Every elephant who likes most cheetahs was bitten by at least sixty of them",
+    "lex_density": 0,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "359": {
+    "text": "There is a dog in the house who wants to eat three biscuits",
+    "lex_density": 0,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "360": {
+    "text": "There is a cat in the house who wants to drink three cups of water",
+    "lex_density": 0,
+    "num_sem_role": 11,
+    "lex_diversity": 100.0
+  },
+  "361": {
+    "text": "There is a duck in the house who wants to eat two cakes",
+    "lex_density": 0,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "362": {
+    "text": "There is a rabbit in the house who wants to eat four carrots",
+    "lex_density": 0,
+    "num_sem_role": 11,
+    "lex_diversity": 100.0
+  },
+  "363": {
+    "text": "There is a bird in the house who wants to eat five bananas",
+    "lex_density": 0,
+    "num_sem_role": 11,
+    "lex_diversity": 100.0
+  },
+  "364": {
+    "text": "There is an elephant in the car who wants to eat three bananas",
+    "lex_density": 0,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "365": {
+    "text": "There is a cheetah in the apartment who wants to eat three rats",
+    "lex_density": 0,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "366": {
+    "text": "There is a bird in the library who wants to eat three cakes",
+    "lex_density": 0,
+    "num_sem_role": 11,
+    "lex_diversity": 100.0
+  },
+  "367": {
+    "text": "There is a rat in the kitchen who wants to eat three hamburgers",
+    "lex_density": 0,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "368": {
+    "text": "There is a cat in the space who wants to eat five rats",
+    "lex_density": 0,
+    "num_sem_role": 11,
+    "lex_diversity": 100.0
+  },
+  "369": {
+    "text": "Some cats, who love every dog who likes some squirrels, died",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 81.8
+  },
+  "370": {
+    "text": "Some dogs, who like every squirrel who loves some cats, slept",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 81.8
+  },
+  "371": {
+    "text": "Some squirrels, who love every cat who likes some dogs, jumped",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 81.8
+  },
+  "372": {
+    "text": "Some monkeys, who beat every dog who loves some cats, escaped",
+    "lex_density": 100,
+    "num_sem_role": 10,
+    "lex_diversity": 81.8
+  },
+  "373": {
+    "text": "Some elephants, who like every monkey who eats some bananas, left",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 81.8
+  },
+  "374": {
+    "text": "Some alligators, who eat every dog who likes some fish, were caught",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 83.3
+  },
+  "375": {
+    "text": "Some birds, who see every cat who likes some rats, flew away",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 83.3
+  },
+  "376": {
+    "text": "Some rabbits, who love every cat who likes some carrots, ran away",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 83.3
+  },
+  "377": {
+    "text": "Some raccoons, who love every fish who eats some shrimps, moved to Indiana",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 84.6
+  },
+  "378": {
+    "text": "Some geese, who slap every duck who likes some cats, walked away",
+    "lex_density": 100,
+    "num_sem_role": 11,
+    "lex_diversity": 83.3
+  },
+  "379": {
+    "text": "The raccoon in my car likes to eat every fish it sees",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "380": {
+    "text": "The mouse in my home likes to eat every insect it observes",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "381": {
+    "text": "The cat in my home loves to eat every mouse it sees",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "382": {
+    "text": "The dog in my home likes to beat every cat it encounters",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "383": {
+    "text": "The child in my home likes to touch every dog he sees",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "384": {
+    "text": "The student in my class likes to read every book he borrows",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "385": {
+    "text": "The dentist in my hospital likes to eat every candy she finds",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "386": {
+    "text": "The teacher in my school likes to assign every problem she notices",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "387": {
+    "text": "The squirrel in his car likes to eat every corn it sees",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "388": {
+    "text": "The monkey in her zoo likes to steal every banana it sees",
+    "lex_density": 100,
+    "num_sem_role": 9,
+    "lex_diversity": 100.0
+  },
+  "389": {
+    "text": "Every dog in Slovenia likes to chase pigs",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 100.0
+  },
+  "390": {
+    "text": "Every student in school likes to solve problems",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 100.0
+  },
+  "391": {
+    "text": "Every dentist in hospital loves to brush teeth",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 100.0
+  },
+  "392": {
+    "text": "Every cat in Indiana likes to play with dogs",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 100.0
+  },
+  "393": {
+    "text": "Every elephant in Michigan hopes to eat bananas",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 100.0
+  },
+  "394": {
+    "text": "Every bird in Florida flies to Indiana in summer",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 88.9
+  },
+  "395": {
+    "text": "Every teacher in college likes to assign homework",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 100.0
+  },
+  "396": {
+    "text": "Every monkey at zoo loves to practise martial arts",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 100.0
+  },
+  "397": {
+    "text": "Every goose in Indiana walks around in colleges",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 87.5
+  },
+  "398": {
+    "text": "Every child at home loves to eat candies",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 100.0
+  },
+  "399": {
+    "text": "Some cat in London has been to Paris",
+    "lex_density": 0,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "400": {
+    "text": "Some dog in Paris has been to London",
+    "lex_density": 0,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "401": {
+    "text": "Some monkey in Tokyo has been to Osaka",
+    "lex_density": 0,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "402": {
+    "text": "Some bird in Florida has been to Indiana",
+    "lex_density": 0,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "403": {
+    "text": "Some elephant in Indiana has been to Florida",
+    "lex_density": 0,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "404": {
+    "text": "Some person in Chicago has been to Miami",
+    "lex_density": 0,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "405": {
+    "text": "Some student in college has been to Japan",
+    "lex_density": 0,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "406": {
+    "text": "Some rat in his home has been to her room",
+    "lex_density": 0,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "407": {
+    "text": "Some goose in Miami has been to Orlando",
+    "lex_density": 0,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "408": {
+    "text": "Some cow in Ohio has been to Indiana",
+    "lex_density": 0,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "409": {
+    "text": "Every cat who likes every dog also likes every squirrel",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 70.0
+  },
+  "410": {
+    "text": "Every dog who likes every squirrel also loves every cat",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 80.0
+  },
+  "411": {
+    "text": "Every squirrel who loves every cat also likes every dog",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 80.0
+  },
+  "412": {
+    "text": "Every monkey who loves every dog also loves every cat",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 70.0
+  },
+  "413": {
+    "text": "Every elephant who likes every monkey also likes every banana",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 70.0
+  },
+  "414": {
+    "text": "Every alligator who eats every dog also eats every fish",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 70.0
+  },
+  "415": {
+    "text": "Every bird who sees every cat also sees every rat",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 70.0
+  },
+  "416": {
+    "text": "Every rabbit who loves every cat also likes every carrot",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 80.0
+  },
+  "417": {
+    "text": "Every raccoon who loves every fish also loves every shrimp",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 70.0
+  },
+  "418": {
+    "text": "Every goose who slaps every duck also slaps every cat",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 70.0
+  },
+  "419": {
+    "text": "Cats who like squirrels hate dogs",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 100.0
+  },
+  "420": {
+    "text": "Dogs who like squirrels hate cats",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 100.0
+  },
+  "421": {
+    "text": "Squirrels who like cats hate dogs",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 100.0
+  },
+  "422": {
+    "text": "Monkeys who hates dogs eat bananas",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 100.0
+  },
+  "423": {
+    "text": "Elephants who like monkeys love cats",
+    "lex_density": 100,
+    "num_sem_role": 8,
+    "lex_diversity": 100.0
+  },
+  "424": {
+    "text": "Alligators who hate dogs eat apples",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 100.0
+  },
+  "425": {
+    "text": "Birds who sees cats eat corns",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 100.0
+  },
+  "426": {
+    "text": "Rabbits who eat carrots hate cats",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 100.0
+  },
+  "427": {
+    "text": "Raccoons who love fish eat rats",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 100.0
+  },
+  "428": {
+    "text": "Geese who like ducks slap cats",
+    "lex_density": 100,
+    "num_sem_role": 7,
+    "lex_diversity": 100.0
+  },
+  "429": {
+    "text": "Few math students love any subject in linguistics",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "430": {
+    "text": "Few lingustic students love any subject in math",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "431": {
+    "text": "Few chemistry students love any subject in physics",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "432": {
+    "text": "Few history students love any subject in engineering",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "433": {
+    "text": "Few high school teachers love any students in college",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "434": {
+    "text": "Few smart cats like any mammal in pink",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 100.0
+  },
+  "435": {
+    "text": "Few engineering students love any subject in geography",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "436": {
+    "text": "Few college students love any problem in their homework",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "437": {
+    "text": "Few assistant professors assign any problem in biology",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "438": {
+    "text": "Few young monkeys eat any fruit in blue",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "439": {
+    "text": "Five dogs see at least six cats",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "440": {
+    "text": "Seven rats see at least five cats",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "441": {
+    "text": "Twenty monkeys eat at least forty biscuits",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "442": {
+    "text": "Eleven birds love at least five geese",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "443": {
+    "text": "Nine rabbits eat at least ten carrots",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "444": {
+    "text": "Three elephants like at least four cheetahs",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 100.0
+  },
+  "445": {
+    "text": "Two cheetahs beat at least three monkeys",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "446": {
+    "text": "Six raccoons like at least seven rats",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 100.0
+  },
+  "447": {
+    "text": "Twelve cows discover at least two elephants",
+    "lex_density": 100,
+    "num_sem_role": 3,
+    "lex_diversity": 100.0
+  },
+  "448": {
+    "text": "Thirty geese slap at least fifty ducks",
+    "lex_density": 100,
+    "num_sem_role": 0,
+    "lex_diversity": 100.0
+  },
+  "449": {
+    "text": "Every cat who no dog chases, rests",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 100.0
+  },
+  "450": {
+    "text": "Every bird who no cat notices, flies",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "451": {
+    "text": "Every elephant who no rat hates, runs",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 100.0
+  },
+  "452": {
+    "text": "Every rabbit who no monkey loves, sleeps",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 100.0
+  },
+  "453": {
+    "text": "Every goose who no duck sees, escapes",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 100.0
+  },
+  "454": {
+    "text": "Every monkey who no goose knows, jumps",
+    "lex_density": 100,
+    "num_sem_role": 6,
+    "lex_diversity": 100.0
+  },
+  "455": {
+    "text": "Every cheetah who no elephant eats, moves",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "456": {
+    "text": "Every dog who no rabbit beats, barks",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  },
+  "457": {
+    "text": "Every rat who no cheetah catches, disappears",
+    "lex_density": 100,
+    "num_sem_role": 2,
+    "lex_diversity": 100.0
+  },
+  "458": {
+    "text": "Every raccoon who no bird passes, cries",
+    "lex_density": 100,
+    "num_sem_role": 4,
+    "lex_diversity": 100.0
+  }
+}
