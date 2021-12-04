@@ -1,0 +1,52 @@
+{
+  "task_config_path_dict": {
+    "relational_vertex": "probing_tasks/configs/relational_vertex_config.json"
+  },
+  "task_cache_config_dict": {
+    "relational_vertex": {
+      "train": "./cache/microsoft/deberta-base/relational_vertex\\train",
+      "val": "./cache/microsoft/deberta-base/relational_vertex\\val",
+      "val_labels": "./cache/microsoft/deberta-base/relational_vertex\\val_labels"
+    }
+  },
+  "sampler_config": {
+    "sampler_type": "ProportionalMultiTaskSampler"
+  },
+  "global_train_config": {
+    "max_steps": 41190,
+    "warmup_steps": 4119
+  },
+  "task_specific_configs_dict": {
+    "relational_vertex": {
+      "train_batch_size": 8,
+      "eval_batch_size": 16,
+      "gradient_accumulation_steps": 1,
+      "eval_subset_num": 500
+    }
+  },
+  "taskmodels_config": {
+    "task_to_taskmodel_map": {
+      "relational_vertex": "relational_vertex"
+    },
+    "taskmodel_config_map": {
+      "relational_vertex": {
+        "classifier_type": "mlp"
+      }
+    }
+  },
+  "task_run_config": {
+    "train_task_list": [
+      "relational_vertex"
+    ],
+    "train_val_task_list": [
+      "relational_vertex"
+    ],
+    "val_task_list": [
+      "relational_vertex"
+    ],
+    "test_task_list": []
+  },
+  "metric_aggregator_config": {
+    "metric_aggregator_type": "EqualMetricAggregator"
+  }
+}

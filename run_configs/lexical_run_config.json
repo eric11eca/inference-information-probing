@@ -1,0 +1,52 @@
+{
+  "task_config_path_dict": {
+    "lexical": "probing_tasks/configs/lexical_config.json"
+  },
+  "task_cache_config_dict": {
+    "lexical": {
+      "train": "./cache/roberta-large/lexical\\train",
+      "val": "./cache/roberta-large/lexical\\val",
+      "val_labels": "./cache/roberta-large/lexical\\val_labels"
+    }
+  },
+  "sampler_config": {
+    "sampler_type": "ProportionalMultiTaskSampler"
+  },
+  "global_train_config": {
+    "max_steps": 4100,
+    "warmup_steps": 410
+  },
+  "task_specific_configs_dict": {
+    "lexical": {
+      "train_batch_size": 8,
+      "eval_batch_size": 16,
+      "gradient_accumulation_steps": 1,
+      "eval_subset_num": 500
+    }
+  },
+  "taskmodels_config": {
+    "task_to_taskmodel_map": {
+      "lexical": "lexical"
+    },
+    "taskmodel_config_map": {
+      "lexical": {
+        "classifier_type": "linear"
+      }
+    }
+  },
+  "task_run_config": {
+    "train_task_list": [
+      "lexical"
+    ],
+    "train_val_task_list": [
+      "lexical"
+    ],
+    "val_task_list": [
+      "lexical"
+    ],
+    "test_task_list": []
+  },
+  "metric_aggregator_config": {
+    "metric_aggregator_type": "EqualMetricAggregator"
+  }
+}
