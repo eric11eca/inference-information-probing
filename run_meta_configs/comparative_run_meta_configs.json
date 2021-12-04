@@ -1,0 +1,32 @@
+{
+  "bert1": {
+    "task_name": "comparative",
+    "model_name": "bert-base-uncased",
+    "model_val_name": "bert-base",
+    "model_pth": "./models/bert-base-uncased/model/model.p",
+    "do_train": true,
+    "do_control": false,
+    "classifier_type": "linear",
+    "freeze_encoder": false
+  },
+  "roberta1": {
+    "task_name": "comparative",
+    "model_name": "roberta-base",
+    "model_val_name": "roberta-base",
+    "model_pth": "./models/roberta-base/model/model.p",
+    "do_train": true,
+    "do_control": false,
+    "classifier_type": "linear",
+    "freeze_encoder": false
+  },
+  "deberta": {
+    "task_name": "comparative",
+    "model_name": "microsoft/deberta-base",
+    "model_val_name": "deberta",
+    "model_pth": "./models/microsoft/deberta-base/model/model.p",
+    "do_train": true,
+    "do_control": false,
+    "classifier_type": "linear",
+    "freeze_encoder": false
+  }
+}
