@@ -1,0 +1,8 @@
+{
+  "task": "contradiction",
+  "paths": {
+    "train": "/content/tasks/data/contradiction/train.jsonl",
+    "val": "/content/tasks/data/contradiction/val.jsonl"
+  },
+  "name": "contradiction"
+}

@@ -1,0 +1,8 @@
+{
+  "task": "sentiment_vertex",
+  "paths": {
+    "train": "../data/sentiment_vertex/train.jsonl",
+    "val": "../data/sentiment_vertex/val.jsonl"
+  },
+  "name": "sentiment_vertex"
+}

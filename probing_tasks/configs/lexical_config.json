@@ -1,0 +1,8 @@
+{
+  "task": "lexical",
+  "paths": {
+    "train": "../data/lexical/train.jsonl",
+    "val": "../data/lexical/val.jsonl"
+  },
+  "name": "lexical"
+}

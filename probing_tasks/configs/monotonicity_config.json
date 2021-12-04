@@ -1,0 +1,8 @@
+{
+  "task": "monotonicity",
+  "paths": {
+    "train": "../data/monotonicity/train.jsonl",
+    "val": "../data/monotonicity/val.jsonl"
+  },
+  "name": "monotonicity"
+}

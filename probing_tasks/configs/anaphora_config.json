@@ -1,0 +1,8 @@
+{
+  "task": "anaphora",
+  "paths": {
+    "train": "../data/anaphora/train.jsonl",
+    "val": "../data/anaphora/val.jsonl"
+  },
+  "name": "anaphora"
+}

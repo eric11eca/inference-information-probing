@@ -1,0 +1,8 @@
+{
+  "task": "contradict_vertex",
+  "paths": {
+    "train": "../data/contradict_vertex/train.jsonl",
+    "val": "../data/contradict_vertex/val.jsonl"
+  },
+  "name": "contradict_vertex"
+}

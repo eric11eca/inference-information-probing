@@ -1,0 +1,8 @@
+{
+  "task": "relational",
+  "paths": {
+    "train": "/content/tasks/data/relational/train.jsonl",
+    "val": "/content/tasks/data/relational/val.jsonl"
+  },
+  "name": "relational"
+}

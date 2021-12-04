@@ -1,0 +1,8 @@
+{
+  "task": "semgraph2",
+  "paths": {
+    "train": "../data/semgraph2/train.jsonl",
+    "val": "../data/semgraph2/val.jsonl"
+  },
+  "name": "semgraph2"
+}

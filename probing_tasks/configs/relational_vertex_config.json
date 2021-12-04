@@ -1,0 +1,8 @@
+{
+  "task": "relational_vertex",
+  "paths": {
+    "train": "../data/relational_vertex/train.jsonl",
+    "val": "../data/relational_vertex/val.jsonl"
+  },
+  "name": "relational_vertex"
+}
